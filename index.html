@@ -3,13 +3,12 @@
 <head>
 	
 	<title>Andrea - Leaflet</title>
-
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
-	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	<style>
 
 		body {
@@ -36,7 +35,7 @@
 
 		#map {
 			position: absolute;
-			height: 100%;
+			height: 500px;
 			width: 100%;
 			background-color: #fff;
 			
@@ -46,256 +45,31 @@
 	
 </head>
 <body>
-
-<div id='map'></div>
-
-<script>
-
-/*	var map = L.map('map').setView([19.4329, -99.1331], 11);
-	//var map = L.map('map').setView([51.5, -0.09], 13);
-	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-		attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-	}).addTo(map);
-
-	var LeafIcon = L.Icon.extend({
-		options: {
-			shadowUrl: 'images/leaf-shadow.png',
-			iconSize:     [38, 95],
-			shadowSize:   [50, 64],
-			iconAnchor:   [22, 94],
-			shadowAnchor: [4, 62],
-			popupAnchor:  [-3, -76]
-		}
-	});
-
-	//var greenIcon = new LeafIcon({iconUrl: 'images/leaf-green.png'}),
-	//	redIcon = new LeafIcon({iconUrl: 'images/leaf-red.png'}),
-	//	orangeIcon = new LeafIcon({iconUrl: 'images/leaf-orange.png'});
-
-	//L.marker([51.5, -0.09], {icon: greenIcon}).bindPopup("I am a green leaf.").addTo(map);
-	//L.marker([51.495, -0.083], {icon: redIcon}).bindPopup("I am a red leaf.").addTo(map);
-	//L.marker([51.49, -0.1], {icon: orangeIcon}).bindPopup("I am an orange leaf.").addTo(map);
-
-	//var circle = L.circle([19.4680261, -99.18417569], {
-	//	color: 'red',
-	//	fillColor: '#f03',
-	//	fillOpacity: 0.5,
-	//	radius: 50
-	//}).addTo(map);
-	//circle.bindPopup("Delito");
-
-
-*/
-
-d3.csv('crime-lat-long_v2.csv', function (error, incidents) {
-
-            function reformat(array) {
-                var data = [];
-                array.map(function (d, i) {
-
-                    data.push({
-                        id: i,
-                        type: "Feature",
-                        geometry: {
-                            coordinates: [+d.longitude, +d.latitude],
-                            type: "Point"
-                        }
-                       
-
-                    });
-                });
-                return data;
-            }
-            var geoData = { type: "FeatureCollection", features: reformat(incidents) };
-
-
-
-            var qtree = d3.geom.quadtree(geoData.features.map(function (data, i) {
-                return {
-                    x: data.geometry.coordinates[0],
-                    y: data.geometry.coordinates[1],
-                    all: data
-                };
-            }
-                                                         )
-                                                  );
-
-
-            // Find the nodes within the specified rectangle.
-            function search(quadtree, x0, y0, x3, y3) {
-                var pts = [];
-                var subPixel = false;
-                var subPts = [];
-                var scale = getZoomScale();
-                console.log(" scale: " + scale);
-                var counter = 0;
-                quadtree.visit(function (node, x1, y1, x2, y2) {
-                    var p = node.point;
-                    var pwidth = node.width * scale;
-                    var pheight = node.height * scale;
-
-                    // -- if this is too small rectangle only count the branch and set opacity
-                    if ((pwidth * pheight) <= 1) {
-                        // start collecting sub Pixel points
-                        subPixel = true;
-                    }
-                        // -- jumped to super node large than 1 pixel
-                    else {
-                        // end collecting sub Pixel points
-                        if (subPixel && subPts && subPts.length > 0) {
-
-                            subPts[0].group = subPts.length;
-                            pts.push(subPts[0]); // add only one todo calculate intensity
-                            counter += subPts.length - 1;
-                            subPts = [];
-                        }
-                        subPixel = false;
-                    }
-
-                    if ((p) && (p.x >= x0) && (p.x < x3) && (p.y >= y0) && (p.y < y3)) {
-
-                        if (subPixel) {
-                            subPts.push(p.all);
-                        }
-                        else {
-                            if (p.all.group) {
-                                delete (p.all.group);
-                            }
-                            pts.push(p.all);
-                        }
-
-                    }
-                    // if quad rect is outside of the search rect do nto search in sub nodes (returns true)
-                    return x1 >= x3 || y1 >= y3 || x2 < x0 || y2 < y0;
-                });
-                console.log(" Number of removed  points: " + counter);
-                return pts;
-
-            }
-
-         
-            function updateNodes(quadtree) {
-                var nodes = [];
-                quadtree.depth = 0; // root
-
-                quadtree.visit(function (node, x1, y1, x2, y2) {
-                    var nodeRect = {
-                        left: MercatorXofLongitude(x1),
-                        right: MercatorXofLongitude(x2),
-                        bottom: MercatorYofLatitude(y1),
-                        top: MercatorYofLatitude(y2),
-                    }
-                    node.width = (nodeRect.right - nodeRect.left);
-                    node.height = (nodeRect.top - nodeRect.bottom);
-
-                    if (node.depth == 0) {
-                        console.log(" width: " + node.width + "height: " + node.height);
-                    }
-                    nodes.push(node);
-                    for (var i = 0; i < 4; i++) {
-                        if (node.nodes[i]) node.nodes[i].depth = node.depth + 1;
-                    }
-                });
-                return nodes;
-            }
-
-            //-------------------------------------------------------------------------------------
-            MercatorXofLongitude = function (lon) {
-                return lon * 20037508.34 / 180;
-            }
-
-            MercatorYofLatitude = function (lat) {
-                return (Math.log(Math.tan((90 + lat) * Math.PI / 360)) / (Math.PI / 180)) * 20037508.34 / 180;
-            }
-            var cscale = d3.scale.linear().domain([1, 3]).range(["#fff", "#fff", "#fff", "#fff", "#00ffff", "#0094ff"]);//"#00FF00","#FFA500"
-            var leafletMap = L.map('map').setView([19.4329, -99.1331], 11);
-            L.tileLayer("http://{s}.sm.mapstack.stamen.com/(toner-lite,$fff[difference],$fff[@23],$fff[hsl-saturation@20])/{z}/{x}/{y}.png").addTo(leafletMap);
-
-
-            var svg = d3.select(leafletMap.getPanes().overlayPane).append("svg");
-            var g = svg.append("g").attr("class", "leaflet-zoom-hide");
-
-
-            // Use Leaflet to implement a D3 geometric transformation.
-            function projectPoint(x, y) {
-                var point = leafletMap.latLngToLayerPoint(new L.LatLng(y, x));
-                this.stream.point(point.x, point.y);
-            }
-
-            var transform = d3.geo.transform({ point: projectPoint });
-            var path = d3.geo.path().projection(transform);
-
-
-            updateNodes(qtree);
-
-            leafletMap.on('moveend', mapmove);
-
-            mapmove();
-
-
-            function getZoomScale() {
-                var mapWidth = leafletMap.getSize().x;
-                var bounds = leafletMap.getBounds();
-                var planarWidth = MercatorXofLongitude(bounds.getEast()) - MercatorXofLongitude(bounds.getWest());
-                var zoomScale = mapWidth / planarWidth;
-                return zoomScale;
-
-            }
-
-            function redrawSubset(subset) {
-                path.pointRadius(3);// * scale);
-
-                var bounds = path.bounds({ type: "FeatureCollection", features: subset });
-                var topLeft = bounds[0];
-                var bottomRight = bounds[1];
-
-
-                svg.attr("width", bottomRight[0] - topLeft[0])
-                  .attr("height", bottomRight[1] - topLeft[1])
-                  .style("left", topLeft[0] + "px")
-                  .style("top", topLeft[1] + "px");
-
-
-                g.attr("transform", "translate(" + -topLeft[0] + "," + -topLeft[1] + ")");
-
-                var start = new Date();
-
-
-                var points = g.selectAll("path")
-                              .data(subset, function (d) {
-                                  return d.id;
-                              });
-                points.enter().append("path");
-                points.exit().remove();
-                points.attr("d", path);
-
-                points.style("fill-opacity", function (d) {
-                    if (d.group) {
-                        return (d.group * 0.1) + 0.2;
-                    }
-                });
-
-
-                console.log("updated at  " + new Date().setTime(new Date().getTime() - start.getTime()) + " ms ");
-
-            }
-            function mapmove(e) {
-                var mapBounds = leafletMap.getBounds();
-                var subset = search(qtree, mapBounds.getWest(), mapBounds.getSouth(), mapBounds.getEast(), mapBounds.getNorth());
-                console.log("subset: " + subset.length);
-
-                redrawSubset(subset);
-
-            }
+	<div class="container">
+		<div class="row">
+			<h3 class="text-center">Andrea Bravo | Crimen</h3>
+		</div>
+		<div class="row">
+			<p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+		</div>
+		<div class="row">
+			<div class="col">
+				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+			<div class="col">
+				<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+		</div>
+	</div>
 	
-        });
 
+	<div class="container map">
+		<div class="col-sm-8" id='map'></div>
+	</div>
 
-
-
-</script>
-
-
-
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="js/map.js"></script>
 </body>
 </html>
