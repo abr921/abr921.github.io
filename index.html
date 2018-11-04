@@ -9,46 +9,31 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
 	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="js/leaflet-heat.js"></script>
 	<style>
 
-		body {
-			font-size: 12px;
-		}
-
-		text {
-			fill: white;
-		}
-
-		svg {
+		#negocio_map {
 			position: relative;
-		}
-
-		path {
-			fill: #ffd800;
-			fill-opacity: .5;
-		}
-
-		path:hover {
-				fill: brown;
-				fill-opacity: .7;
-			}
-
-		#map {
-			position: absolute;
 			height: 500px;
-			width: 100%;
+			width: 900px;
 			background-color: #fff;
-			
 		}
+
+		#vehiculo_map {
+			position: relative;
+			height:500px;
+			width: 900px;
+			background-color: #fff;
+		}	
+
 	</style>
 
 	
 </head>
 <body>
+	<h1 class="text-center my-3">Andrea Bravo | Incidencia Delictiva Álvaro Obregón</h1>
+	</div>
 	<div class="container">
-		<div class="row">
-			<h3 class="text-center">Andrea Bravo | Crimen</h3>
-		</div>
 		<div class="row">
 			<p class="text-justify">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
 		</div>
@@ -63,13 +48,25 @@
 	</div>
 	
 
-	<div class="container map">
-		<div class="col-sm-8" id='map'></div>
+	<div class="container negocio_map">
+		<div class="col" id='negocio_map'></div>
 	</div>
+
+	<div class="container my-5">
+		<div class="row">
+			<p>En la siguiente gráfica se muestran los robos a vehículo sin violencia</p>
+		</div>
+	</div>
+
+	<div class="container vehiculo_map mb-5">
+		<div class="col" id="vehiculo_map"></div>
+	</div>
+
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="js/map.js"></script>
+<script src="js/negocio_map.js"></script>
+<script src="js/vehiculo_map.js"></script>
 </body>
 </html>

@@ -1,0 +1,128 @@
+,cuadrante,crime,date,hour,year,month,lat,lon,calle,int
+69,P-1.2.8,ROBO A NEGOCIO C.V.,03/01/2016,16:21,2016,1,19.368522,-99.220854,"Olivar del Conde 3a. Sección, Álvaro Obregón, CDMX, 01408, México",1
+130,S-1.2.1,ROBO A NEGOCIO C.V.,04/01/2016,22:20,2016,1,19.363545,-99.178608,"Margaritas, Álvaro Obregón, CDMX, 03810, México",1
+203,P-1.1.6,ROBO A NEGOCIO C.V.,05/01/2016,09:49,2016,1,19.34164,-99.204331,"Veracruz, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+281,P-1.1.9,ROBO A NEGOCIO C.V.,06/01/2016,13:07,2016,1,19.341169,-99.228118,"Segunda Del Moral, Álvaro Obregón, CDMX, 01700, México",1
+320,P-1.2.6,ROBO A NEGOCIO C.V.,07/01/2016,11:11,2016,1,19.378611,-99.207308,"Dolores, Barrio Norte, Álvaro Obregón, CDMX, 01410, México",1
+390,P-1.2.4,ROBO A NEGOCIO C.V.,08/01/2016,12:54,2016,1,19.386549,-99.219898,"La Venta, Prolongación a Martínez, Álvaro Obregón, CDMX, 01200, México",1
+510,P-1.5.4,ROBO A NEGOCIO C.V.,10/01/2016,12:21,2016,1,19.370294,-99.233427,"Puerto Kino, Garcimarrero, Álvaro Obregón, CDMX, 01510, México",1
+597,P-1.2.3,ROBO A NEGOCIO C.V.,12/01/2016,20:29,2016,1,19.393511,-99.207395,"Santa Lucía, Molino de Santo Domingo, Álvaro Obregón, CDMX, 01130, México",1
+660,P-1.2.4,ROBO A NEGOCIO C.V.,13/01/2016,12:45,2016,1,19.387329,-99.213613,"Brasileños, Mártires de Tacubaya, Álvaro Obregón, CDMX, 01220, México",1
+662,P-1.2.3,ROBO A NEGOCIO C.V.,13/01/2016,18:45,2016,1,19.387953,-99.212913,"Uruguayos, María G. de García Cruz, Álvaro Obregón, CDMX, 01160, México",1
+665,P-1.1.7,ROBO A NEGOCIO C.V.,13/01/2016,17:44,2016,1,19.327114,-99.268915,"Desierto de los Leones, Alcantarilla, Álvaro Obregón, CDMX, 01729, México",1
+667,P-1.1.5,ROBO A NEGOCIO C.V.,13/01/2016,22:11,2016,1,19.357966,-99.208991,"Torrente, Ampliación Los Alpes, Álvaro Obregón, CDMX, 01710, México",1
+808,P-1.4.2,ROBO A NEGOCIO C.V.,15/01/2016,17:47,2016,1,19.34903,-99.188165,"Cracovia, Guadalupe Chimalistac, Álvaro Obregón, CDMX, 01050, México",1
+910,S-3.1.1,ROBO A NEGOCIO C.V.,16/01/2016,23:37,2016,1,19.320014,-99.220922,"Presa Anzaldo, Lateral Periferico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+927,O-3.6.8,ROBO A NEGOCIO C.V.,16/01/2016,21:30,2016,1,19.25786,-99.018214,"Calle Álvaro Obregón, Las Ánimas, Xochimilco, CDMX, 16739, México",1
+931,P-1.2.7,ROBO A NEGOCIO C.V.,17/01/2016,02:25,2016,1,19.376857,-99.19355,"Allori, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+987,P-1.2.10,ROBO A NEGOCIO C.V.,18/01/2016,15:07,2016,1,19.364003,-99.218207,"Loma Perpetua, Lomas de Tarango, Álvaro Obregón, CDMX, 01620, México",1
+1039,O-3.3.4,ROBO A NEGOCIO C.V.,18/01/2016,16:49,2016,1,19.291225,-99.013112,"Álvaro Obregón, Ojo de Agua, Tláhuac, CDMX, 13450, México",1
+1065,P-1.2.3,ROBO A NEGOCIO C.V.,19/01/2016,13:41,2016,1,19.393023,-99.209267,"Santa Clara, La Conchita, Álvaro Obregón, CDMX, 01109, México",1
+1129,P-1.5.1,ROBO A NEGOCIO C.V.,20/01/2016,16:31,2016,1,19.378673,-99.246175,"Calle A. Rosales, Gral. Antonio Rosales, Álvaro Obregón, CDMX, 01230, México",1
+1214,P-1.4.6,ROBO A NEGOCIO C.V.,21/01/2016,04:16,2016,1,19.337002,-99.19596,"La Otra Banda, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+1285,P-1.2.9,ROBO A NEGOCIO C.V.,22/01/2016,23:12,2016,1,19.372715,-99.199003,"Av. del Rosal, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+1526,P-1.1.5,ROBO A NEGOCIO C.V.,26/01/2016,03:09,2016,1,19.362058,-99.195631,"Calz. de los Leones, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+1527,P-1.1.5,ROBO A NEGOCIO C.V.,26/01/2016,22:51,2016,1,19.357598,-99.208902,"Costa, Ampliación Los Alpes, Álvaro Obregón, CDMX, 01710, México",1
+1601,P-1.2.4,ROBO A NEGOCIO C.V.,27/01/2016,23:36,2016,1,19.387407,-99.200628,"Mario Lopez Portilla, Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+1802,P-1.1.10,ROBO A NEGOCIO C.V.,30/01/2016,06:12,2016,1,19.354904,-99.215203,"Romulo O' Farril Sr., Loma Bonita, Álvaro Obregón, CDMX, 01760, México",1
+2109,P-1.2.9,ROBO A NEGOCIO C.V.,04/02/2016,16:49,2016,2,19.372103,-99.193202,"A-9, Rosa Trepadora, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+2261,P-1.2.8,ROBO A NEGOCIO C.V.,06/02/2016,16:19,2016,2,19.369278,-99.211986,"Joaquín Camarillo, Preconcreto, Álvaro Obregón, CDMX, 01400, México",1
+2267,P-1.2.4,ROBO A NEGOCIO C.V.,06/02/2016,13:45,2016,2,19.389774,-99.201694,"MERCADO DE CRISTO REY, S/N, De la Curva, Cristo Rey, Álvaro Obregón, CDMX, 01150, México",1
+2311,P-1.2.7,ROBO A NEGOCIO C.V.,07/02/2016,12:14,2016,2,19.375492,-99.192719,"Giotto, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+2360,P-1.5.2,ROBO A NEGOCIO C.V.,08/02/2016,07:20,2016,2,19.387108,-99.215133,"Guerrerenses, Arturo Martínez, Álvaro Obregón, CDMX, 01200, México",1
+2455,P-1.1.7,ROBO A NEGOCIO C.V.,09/02/2016,23:02,2016,2,19.333747,-99.272605,"Ahuatitla, San Bartolo Ameyalco, Álvaro Obregón, CDMX, 01800, México",1
+2799,P-1.2.3,ROBO A NEGOCIO C.V.,15/02/2016,17:09,2016,2,19.392705,-99.208083,"Paseo San Martín Caballero, Pólvora, Álvaro Obregón, CDMX, 01100, México",1
+2878,P-1.1.4,ROBO A NEGOCIO C.V.,16/02/2016,13:46,2016,2,19.337466,-99.239634,"Calzada Olivar de los Padres, San José del Olivar, Álvaro Obregón, CDMX, 01770, México",1
+2973,P-1.2.7,ROBO A NEGOCIO C.V.,17/02/2016,03:42,2016,2,19.373125,-99.195674,"Av. del Rosal, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+3045,P-1.2.3,ROBO A NEGOCIO C.V.,18/02/2016,22:46,2016,2,19.393577,-99.210058,"Pólvora, Zenón Delgado, Álvaro Obregón, CDMX, 01220, México",1
+3048,P-1.2.2,ROBO A NEGOCIO C.V.,18/02/2016,06:24,2016,2,19.397581,-99.195772,"Campo Florido, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+3280,P-1.2.8,ROBO A NEGOCIO C.V.,22/02/2016,20:14,2016,2,19.368252,-99.221962,"Calz. Charreria, Olivar del Conde 3a. Sección, Álvaro Obregón, CDMX, 01408, México",1
+3360,P-1.2.3,ROBO A NEGOCIO C.V.,23/02/2016,01:52,2016,2,19.38899,-99.210181,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+3361,P-1.2.6,ROBO A NEGOCIO C.V.,23/02/2016,10:07,2016,2,19.382529,-99.217396,"Calle 2, El Tejocote, Álvaro Obregón, CDMX, 01270, México",1
+3529,P-1.4.2,ROBO A NEGOCIO C.V.,25/02/2016,04:06,2016,2,19.357611,-99.18907,"Guty Cárdenas, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+3532,P-1.5.2,ROBO A NEGOCIO C.V.,25/02/2016,20:19,2016,2,19.385122,-99.225214,"Camino Belén, Santa Fe INFONAVIT, Álvaro Obregón, CDMX, 01209, México",1
+3860,P-1.2.4,ROBO A NEGOCIO C.V.,01/03/2016,00:46,2016,3,19.38914,-99.204647,"Gimnasio del IMSS, Circuito Central de la Unidad Santa FE, Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+3936,P-1.2.4,ROBO A NEGOCIO C.V.,02/03/2016,20:44,2016,3,19.386466,-99.199666,"La Venta, Victoria 1a. Sección Bosques, Álvaro Obregón, CDMX, 01160, México",1
+4016,P-1.1.5,ROBO A NEGOCIO C.V.,03/03/2016,20:27,2016,3,19.357871,-99.209002,"Torrente, Ampliación Los Alpes, Álvaro Obregón, CDMX, 01710, México",1
+4088,P-1.2.8,ROBO A NEGOCIO C.V.,04/03/2016,11:51,2016,3,19.370861,-99.212478,"Joaquín Camarillo, Preconcreto, Álvaro Obregón, CDMX, 01400, México",1
+4089,P-1.2.11,ROBO A NEGOCIO C.V.,04/03/2016,12:51,2016,3,19.365792,-99.191691,"Luis Alconedo, Álvaro Obregón, CDMX, 03810, México",1
+4094,P-1.4.7,ROBO A NEGOCIO C.V.,04/03/2016,09:05,2016,3,19.332916,-99.202512,"Avenida San Jerónimo, La Otra Banda, Álvaro Obregón, CDMX, 01090, México",1
+4095,P-1.1.7,ROBO A NEGOCIO C.V.,04/03/2016,11:55,2016,3,19.327571,-99.268686,"Desierto de los Leones, Alcantarilla, Álvaro Obregón, CDMX, 01729, México",1
+4369,P-1.5.6,ROBO A NEGOCIO C.V.,08/03/2016,18:17,2016,3,19.355427,-99.238968,"Fueguinos, Palmas Axotitla, Álvaro Obregón, CDMX, 01650, México",1
+4453,P-1.4.3,ROBO A NEGOCIO C.V.,09/03/2016,16:22,2016,3,19.354335,-99.184414,"Tecoyotitla, Guadalupe Chimalistac, Álvaro Obregón, CDMX, 01050, México",1
+4534,P-1.4.3,ROBO A NEGOCIO C.V.,10/03/2016,03:14,2016,3,19.354259,-99.184395,"Tecoyotitla, Guadalupe Chimalistac, Álvaro Obregón, CDMX, 01050, México",1
+4536,P-1.5.5,ROBO A NEGOCIO C.V.,10/03/2016,17:41,2016,3,19.365429,-99.241333,"Avenida Tamaulipas, Los Cedros, Álvaro Obregón, CDMX, 01510, México",1
+4538,P-1.1.10,ROBO A NEGOCIO C.V.,10/03/2016,17:45,2016,3,19.349991,-99.21811,"Cerro, Ampliación Las Águilas, Álvaro Obregón, CDMX, 01759, México",1
+4713,P-1.5.7,ROBO A NEGOCIO C.V.,13/03/2016,22:07,2016,3,19.363926,-99.222417,"Lienzo Charro La Tapatía, Centenario, Canutillo 3a. Sección, Álvaro Obregón, CDMX, 01566, México",1
+4837,P-1.2.6,ROBO A NEGOCIO C.V.,15/03/2016,01:23,2016,3,19.378678,-99.206673,"Aldama, Barrio Norte, Álvaro Obregón, CDMX, 01410, México",1
+4839,P-1.5.2,ROBO A NEGOCIO C.V.,15/03/2016,16:11,2016,3,19.382727,-99.232649,"Alambres El Oso, Paso de Chacabuco, La Mexicana, Álvaro Obregón, CDMX, 01260, México",1
+4840,P-1.4.1,ROBO A NEGOCIO C.V.,15/03/2016,04:25,2016,3,19.357665,-99.193869,"Las Flores, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+5324,P-1.1.6,ROBO A NEGOCIO C.V.,22/03/2016,09:50,2016,3,19.337767,-99.20484,"Periférico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+5695,P-1.2.4,ROBO A NEGOCIO C.V.,29/03/2016,03:39,2016,3,19.385392,-99.215125,"Principal, Bonanza, Álvaro Obregón, CDMX, 01220, México",1
+5827,P-1.5.7,ROBO A NEGOCIO C.V.,31/03/2016,14:12,2016,3,19.355539,-99.237052,"Pipilos, Palmas Axotitla, Álvaro Obregón, CDMX, 01650, México",1
+6052,P-1.2.10,ROBO A NEGOCIO C.V.,03/04/2016,04:14,2016,4,19.365918,-99.208835,"Bodega Aurrera Centenario, 5 de Mayo, Unidad Cañada del Olivar, Álvaro Obregón, CDMX, 01450, México",1
+6264,P-1.2.8,ROBO A NEGOCIO C.V.,06/04/2016,13:59,2016,4,19.36852,-99.221015,"Olivar del Conde 3a. Sección, Álvaro Obregón, CDMX, 01408, México",1
+6422,P-1.2.3,ROBO A NEGOCIO C.V.,08/04/2016,05:54,2016,4,19.387958,-99.212793,"Uruguayos, María G. de García Cruz, Álvaro Obregón, CDMX, 01160, México",1
+6423,P-1.2.6,ROBO A NEGOCIO C.V.,08/04/2016,12:00,2016,4,19.377368,-99.213059,"Ladera Barrio Norte, Palmas, Álvaro Obregón, CDMX, 01410, México",1
+6858,P-1.2.8,ROBO A NEGOCIO C.V.,14/04/2016,16:28,2016,4,19.373548,-99.204125,"Calle 20, Olivar del Conde 1a. Sección, Álvaro Obregón, CDMX, 01400, México",1
+6860,P-1.1.6,ROBO A NEGOCIO C.V.,14/04/2016,23:51,2016,4,19.340313,-99.208874,"Av. Toluca, San José del Olivar, Álvaro Obregón, CDMX, 01770, México",1
+7155,P-1.5.1,ROBO A NEGOCIO C.V.,19/04/2016,16:23,2016,4,19.378574,-99.245255,"Calle Andador Estragón, Tlapechico, Álvaro Obregón, CDMX, 01230, México",1
+7160,P-1.4.6,ROBO A NEGOCIO C.V.,19/04/2016,22:26,2016,4,19.336316,-99.204878,"Aureliano Rivera, Progreso Tizapán, Álvaro Obregón, CDMX, 01080, México",1
+7235,P-1.2.1,ROBO A NEGOCIO C.V.,20/04/2016,14:09,2016,4,19.40064,-99.201045,"Sur 126, Acueducto, Álvaro Obregón, CDMX, 01120, México",1
+7291,P-1.4.7,ROBO A NEGOCIO C.V.,21/04/2016,02:06,2016,4,19.332513,-99.202532,"Sismo, Progreso Tizapán, Álvaro Obregón, CDMX, 01080, México",1
+7515,P-1.2.6,ROBO A NEGOCIO C.V.,25/04/2016,17:57,2016,4,19.380267,-99.214265,"Benjamín de Tudela, Lomas de Capula, Álvaro Obregón, CDMX, 01270, México",1
+7571,P-1.2.3,ROBO A NEGOCIO C.V.,26/04/2016,10:23,2016,4,19.388197,-99.212999,"Uruguayos, María G. de García Cruz, Álvaro Obregón, CDMX, 01160, México",1
+7718,P-1.2.2,ROBO A NEGOCIO C.V.,28/04/2016,17:24,2016,4,19.402094,-99.197718,"Sur 114, COVE, Álvaro Obregón, CDMX, 01120, México",1
+7899,P-1.5.1,ROBO A NEGOCIO C.V.,01/05/2016,10:00,2016,5,19.386573,-99.241583,"Vereda Sta Fe, Lomas de Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+7944,P-1.5.1,ROBO A NEGOCIO C.V.,02/05/2016,14:54,2016,5,19.379034,-99.243917,"Calle Higuera, Tlapechico, Álvaro Obregón, CDMX, 01230, México",1
+8158,P-1.1.5,ROBO A NEGOCIO C.V.,05/05/2016,19:47,2016,5,19.36467,-99.206788,"Milpa Alta, Águilas Sección Hornos, Álvaro Obregón, CDMX, 01048, México",1
+8338,P-1.1.10,ROBO A NEGOCIO C.V.,08/05/2016,13:41,2016,5,19.347929,-99.22836,"Asperillas, Tecalcapa, Álvaro Obregón, CDMX, 01700, México",1
+8631,P-1.5.3,ROBO A NEGOCIO C.V.,13/05/2016,10:13,2016,5,19.366891,-99.244471,"La Loma, Álvaro Obregón, CDMX, 01260, México",1
+8745,P-1.5.7,ROBO A NEGOCIO C.V.,15/05/2016,16:41,2016,5,19.363943,-99.222201,"Lienzo Charro La Tapatía, Centenario, Canutillo 3a. Sección, Álvaro Obregón, CDMX, 01566, México",1
+8797,P-1.5.7,ROBO A NEGOCIO C.V.,16/05/2016,15:17,2016,5,19.356167,-99.235558,"Belén de las Flores, Los Juristas, Álvaro Obregón, CDMX, 01630, México",1
+8966,P-1.2.3,ROBO A NEGOCIO C.V.,18/05/2016,22:02,2016,5,19.389235,-99.209999,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+9026,P-1.5.7,ROBO A NEGOCIO C.V.,19/05/2016,13:36,2016,5,19.36155,-99.223504,"Hospital General Enrique Cabrera, 5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 11800, México",1
+9244,P-1.5.2,ROBO A NEGOCIO C.V.,23/05/2016,22:01,2016,5,19.385708,-99.223683,"Francisco González Bocanegra, Unidad Habitacional Belén, Álvaro Obregón, CDMX, 01209, México",1
+9323,P-1.4.4,ROBO A NEGOCIO C.V.,24/05/2016,17:08,2016,5,19.341762,-99.190007,"Farmacia de similares, Av. Insurgentes Sur, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+9325,P-1.5.3,ROBO A NEGOCIO C.V.,24/05/2016,22:04,2016,5,19.376906,-99.232063,"Jalapa, Jalalpa, Álvaro Obregón, CDMX, 01296, México",1
+9326,P-1.1.5,ROBO A NEGOCIO C.V.,24/05/2016,23:40,2016,5,19.358683,-99.208931,"Gutiérrez Zamora, Ampliación Los Alpes, Álvaro Obregón, CDMX, 01710, México",1
+9531,P-1.2.11,ROBO A NEGOCIO C.V.,27/05/2016,23:25,2016,5,19.366032,-99.204379,"Guadalupe Hidalgo, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+9640,P-1.1.2,ROBO A NEGOCIO C.V.,29/05/2016,19:09,2016,5,19.324065,-99.260229,"Del Trabajo, Lomas de los Cedros, Álvaro Obregón, CDMX, 01870, México",1
+9682,P-1.2.3,ROBO A NEGOCIO C.V.,30/05/2016,15:50,2016,5,19.393007,-99.209158,"Santa Clara, La Conchita, Álvaro Obregón, CDMX, 01109, México",1
+9684,P-1.1.4,ROBO A NEGOCIO C.V.,30/05/2016,11:58,2016,5,19.33681,-99.237286,"Roberto Elizondo, Tetelpan, Álvaro Obregón, CDMX, 01700, México",1
+9753,P-1.2.6,ROBO A NEGOCIO C.V.,31/05/2016,09:19,2016,5,19.379783,-99.203551,"Minas de Cobre, Minas de Cristo, Álvaro Obregón, CDMX, 01419, México",1
+10110,C-2.4.8,ROBO A NEGOCIO C.V.,06/06/2016,15:24,2016,6,19.416975,-99.167848,"Eco Ambiental Cuauhtemoc, S.A. De C.V, 271, Álvaro Obregón, Roma Norte, Ciudad de México, Cuauhtémoc, CDMX, 06700, México",1
+10305,P-1.5.3,ROBO A NEGOCIO C.V.,09/06/2016,19:35,2016,6,19.371752,-99.237775,"Avenida Juchique, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+10453,P-1.5.4,ROBO A NEGOCIO C.V.,12/06/2016,17:40,2016,6,19.372147,-99.231631,"Puerto San Blas, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+10497,P-1.5.6,ROBO A NEGOCIO C.V.,13/06/2016,11:36,2016,6,19.356503,-99.242078,"Villa Progresista, Álvaro Obregón, CDMX, 01548, México",1
+10631,P-1.5.3,ROBO A NEGOCIO C.V.,15/06/2016,13:03,2016,6,19.373282,-99.23471,"Avenida Juchique, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+10773,P-1.4.3,ROBO A NEGOCIO C.V.,17/06/2016,13:21,2016,6,19.361958,-99.18034,"Ajusco, Florida, Álvaro Obregón, CDMX, 01030, México",1
+11116,P-1.2.2,ROBO A NEGOCIO C.V.,24/06/2016,09:53,2016,6,19.402242,-99.196784,"Sur 112, COVE, Álvaro Obregón, CDMX, 01120, México",1
+11161,O-2.1.16,ROBO A NEGOCIO C.V.,24/06/2016,13:44,2016,6,19.377609,-99.035693,"Quetzal, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+11410,P-1.5.4,ROBO A NEGOCIO C.V.,29/06/2016,02:29,2016,6,19.366448,-99.229323,"Jaripeo, Colinas del Sur, Álvaro Obregón, CDMX, 01430, México",1
+11560,P-1.5.6,ROBO A NEGOCIO C.V.,01/07/2016,23:41,2016,7,19.357128,-99.239653,"Camino Puerto Ceguayo, Balcones de Ceguayo, Álvaro Obregón, CDMX, 01540, México",1
+11864,P-1.5.1,ROBO A NEGOCIO C.V.,06/07/2016,03:01,2016,7,19.379157,-99.252004,"Prolongación Paseo de la Reforma, ZEDEC Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+12387,P-1.4.6,ROBO A NEGOCIO C.V.,15/07/2016,12:59,2016,7,19.337409,-99.195416,"La Otra Banda, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+12388,P-1.4.4,ROBO A NEGOCIO C.V.,15/07/2016,14:42,2016,7,19.341457,-99.193969,"Arteaga, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+12591,P-1.1.4,ROBO A NEGOCIO C.V.,19/07/2016,14:20,2016,7,19.337892,-99.219825,"Los Milanesos, Avenida Torres Ixtapaltongo, Olivar de los Padres, Álvaro Obregón, CDMX, 01780, México",1
+12895,P-1.1.10,ROBO A NEGOCIO C.V.,25/07/2016,14:44,2016,7,19.345745,-99.22455,"Río Guadalupe, Tecalcapa, Álvaro Obregón, CDMX, 01700, México",1
+13017,P-1.1.8,ROBO A NEGOCIO C.V.,27/07/2016,11:08,2016,7,19.331949,-99.246294,"Calle Dalias, Torres de Potrero, Álvaro Obregón, CDMX, 01840, México",1
+13295,P-1.5.2,ROBO A NEGOCIO C.V.,01/08/2016,12:08,2016,8,19.385747,-99.223633,"Francisco González Bocanegra, Unidad Habitacional Belén, Álvaro Obregón, CDMX, 01209, México",1
+13444,P-1.1.5,ROBO A NEGOCIO C.V.,03/08/2016,12:44,2016,8,19.361969,-99.195652,"Cóndor, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+13592,P-1.4.2,ROBO A NEGOCIO C.V.,05/08/2016,18:46,2016,8,19.36026,-99.186135,"INFONAVIT, Gustavo E. Campa, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+13650,P-1.1.2,ROBO A NEGOCIO C.V.,06/08/2016,14:48,2016,8,19.324395,-99.259876,"3 Alcanfores, Lomas de los Cedros, Álvaro Obregón, CDMX, 01870, México",1
+13870,P-1.1.7,ROBO A NEGOCIO C.V.,10/08/2016,10:38,2016,8,19.323345,-99.263189,"Lázaro Cárdenas, Lomas de La Hera, Álvaro Obregón, CDMX, 01860, México",1
+13871,P-1.1.2,ROBO A NEGOCIO C.V.,10/08/2016,11:06,2016,8,19.321597,-99.267523,"Lomas de Chamontoya, Álvaro Obregón, CDMX, 01857, México",1
+14174,P-1.2.1,ROBO A NEGOCIO C.V.,15/08/2016,03:41,2016,8,19.399664,-99.200646,"Sur 126, Acueducto, Álvaro Obregón, CDMX, 01120, México",1
+14176,P-1.2.10,ROBO A NEGOCIO C.V.,15/08/2016,19:32,2016,8,19.366144,-99.208382,"Sitio de Taxi Centenario, Centenario, Mixcoac, Álvaro Obregón, CDMX, 01450, México",1
+14862,P-1.2.5,ROBO A NEGOCIO C.V.,26/08/2016,11:31,2016,8,19.387288,-99.19968,"Estación de Bomberos, Escuadrón 201, Cristo Rey, Álvaro Obregón, CDMX, 01280, México",1
+15509,P-1.1.5,ROBO A NEGOCIO C.V.,06/09/2016,13:03,2016,9,19.357923,-99.208859,"Cataratas, Loma Bonita, Álvaro Obregón, CDMX, 01760, México",1
+15683,P-1.1.5,ROBO A NEGOCIO C.V.,08/09/2016,02:22,2016,9,19.359128,-99.197345,"Burger King, Calz. de los Leones, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+15777,S-1.3.13,ROBO A NEGOCIO C.V.,09/09/2016,10:04,2016,9,19.361391,-99.184479,"Barranca del Muerto, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+16023,P-1.2.11,ROBO A NEGOCIO C.V.,13/09/2016,01:39,2016,9,19.365654,-99.193356,"Centenario, Álvaro Obregón, CDMX, 03810, México",1
+16025,P-1.2.3,ROBO A NEGOCIO C.V.,13/09/2016,12:17,2016,9,19.388873,-99.214586,"Chinameca, Mártires de Tacubaya, Álvaro Obregón, CDMX, 01220, México",1
+16028,P-1.5.1,ROBO A NEGOCIO C.V.,13/09/2016,15:20,2016,9,19.381104,-99.239685,"Calle Rosales, Margarita Maza de Juárez, Álvaro Obregón, CDMX, 01250, México",1
+16386,P-1.5.7,ROBO A NEGOCIO C.V.,19/09/2016,13:26,2016,9,19.360918,-99.222305,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+16479,P-1.2.6,ROBO A NEGOCIO C.V.,20/09/2016,22:10,2016,9,19.379032,-99.215315,"Alfonso Baldaya, Lomas de Capula, Álvaro Obregón, CDMX, 01270, México",1
+16541,P-1.5.4,ROBO A NEGOCIO C.V.,21/09/2016,09:56,2016,9,19.372185,-99.231664,"Puerto San Blas, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+16613,P-1.5.4,ROBO A NEGOCIO C.V.,22/09/2016,19:33,2016,9,19.375298,-99.221491,"Puerto Yucalpeten, Las Golondrinas 2a. Sección, Álvaro Obregón, CDMX, 01270, México",1

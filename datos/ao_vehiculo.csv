@@ -1,0 +1,309 @@
+,cuadrante,crime,date,hour,year,month,lat,lon,calle,int
+2,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,01/01/2016,22:52,2016,1,19.37388,-99.23428,"Avenida Juchique, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+28,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,02/01/2016,13:52,2016,1,19.396796,-99.192587,"Canario, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+123,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,04/01/2016,09:49,2016,1,19.388022,-99.211757,"Bolivianos, María G. de García Cruz, Álvaro Obregón, CDMX, 01160, México",1
+126,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,04/01/2016,13:25,2016,1,19.359183,-99.229897,"Calle uno, Herón Proal, Álvaro Obregón, CDMX, 01640, México",1
+201,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,05/01/2016,11:10,2016,1,19.379882,-99.192248,"Francisco Girardon, Sacramento, Álvaro Obregón, CDMX, 01420, México",1
+280,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,06/01/2016,00:32,2016,1,19.377218,-99.207998,"Padre Hidalgo, Palmas, Álvaro Obregón, CDMX, 01410, México",1
+508,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,10/01/2016,20:00,2016,1,19.367049,-99.220224,"Calzada de la Romeria, Mixcoac, Álvaro Obregón, CDMX, 01450, México",1
+511,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,10/01/2016,22:52,2016,1,19.387843,-99.194027,"San Pedro de los Pinos, Álvaro Obregón, CDMX, 01180, México",1
+512,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,10/01/2016,23:28,2016,1,19.33932,-99.194352,"Plaza Opción Loreto, Altamirano, Loreto, Álvaro Obregón, CDMX, 01090, México",1
+639,S-3.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,12/01/2016,15:35,2016,1,19.322379,-99.217848,"Lateral Periferico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+661,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,13/01/2016,18:18,2016,1,19.393246,-99.207857,"Santa Cruz, Molino de Santo Domingo, Álvaro Obregón, CDMX, 01130, México",1
+663,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,13/01/2016,11:40,2016,1,19.340303,-99.198009,"Yucatán, Ermita Tizapán, Álvaro Obregón, CDMX, 01089, México",1
+666,P-1.1.9,ROBO DE VEHICULO AUTOMOTOR S.V.,13/01/2016,19:41,2016,1,19.341678,-99.227593,"Camino al Desierto de los Leones, La Herradura, Álvaro Obregón, CDMX, 01760, México",1
+723,S-3.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,13/01/2016,20:41,2016,1,19.323214,-99.218629,"Lateral Periferico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+741,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,14/01/2016,21:34,2016,1,19.375818,-99.200719,"Rosa Amarilla, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+790,P-1.1.1,ROBO DE VEHICULO AUTOMOTOR S.V.,14/01/2016,17:07,2016,1,19.324177,-99.284861,"Santa Rosa Xochiac, Álvaro Obregón, CDMX, 01830, México",1
+805,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,15/01/2016,10:37,2016,1,19.337486,-99.203388,"Yucatán, Ermita Tizapán, Álvaro Obregón, CDMX, 01089, México",1
+862,P-3.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,15/01/2016,01:55,2016,1,19.402511,-99.196497,"5a Cerrada de Observatorio, COVE, Álvaro Obregón, CDMX, 01120, México",1
+881,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,16/01/2016,06:33,2016,1,19.371463,-99.196392,"Rosa Reina, La Cascada, Álvaro Obregón, CDMX, 01490, México",1
+883,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,16/01/2016,18:21,2016,1,19.377983,-99.220028,"Lázaro Cárdenas, Desarrollo Urbano El Piru, Álvaro Obregón, CDMX, 01278, México",1
+983,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,18/01/2016,02:07,2016,1,19.370677,-99.21593,"Calle 24, Olivar del Conde 2a. Sección, Álvaro Obregón, CDMX, 01408, México",1
+984,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,18/01/2016,22:25,2016,1,19.366161,-99.199091,"Centenario, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+988,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,18/01/2016,17:35,2016,1,19.351789,-99.192407,"Corregidora; Av. León Felipe, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+1128,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,20/01/2016,17:48,2016,1,19.365958,-99.195876,"Churreria La Parroquia, Centenario, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+1130,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,20/01/2016,18:47,2016,1,19.380961,-99.23615,"Pino, El Árbol, Álvaro Obregón, CDMX, 01250, México",1
+1132,P-1.4.11,ROBO DE VEHICULO AUTOMOTOR S.V.,20/01/2016,18:52,2016,1,19.314221,-99.21182,"Sud777, 777, Boulevard de la Luz, Jardines del Pedregal, Álvaro Obregón, CDMX, 01900, México",1
+1210,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,21/01/2016,19:57,2016,1,19.364543,-99.199021,"Liga Olmeca, 5 de Mayo, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+1213,P-1.5.2,ROBO DE VEHICULO AUTOMOTOR S.V.,21/01/2016,10:18,2016,1,19.388079,-99.21578,"Jaltipan, Mártires de Tacubaya, Álvaro Obregón, CDMX, 01220, México",1
+1255,O-2.1.14,ROBO DE VEHICULO AUTOMOTOR S.V.,21/01/2016,10:28,2016,1,19.371774,-99.03799,"Ramón Itúrbide, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+1282,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,22/01/2016,01:46,2016,1,19.393075,-99.192998,"Avenida Europa, 8 de Agosto, Álvaro Obregón, CDMX, 01180, México",1
+1283,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,22/01/2016,06:35,2016,1,19.373676,-99.192602,"Lateral Periferico, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+1286,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,22/01/2016,02:15,2016,1,19.383028,-99.234907,"elektra, Callejón Cebada, Lomas de Nuevo México, Álvaro Obregón, CDMX, 01250, México",1
+1351,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,23/01/2016,18:42,2016,1,19.392602,-99.212719,"Leandro Valle, Liberales de 1857, Álvaro Obregón, CDMX, 01110, México",1
+1354,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,23/01/2016,01:15,2016,1,19.362293,-99.177372,"Moras, Florida, Álvaro Obregón, CDMX, 01030, México",1
+1399,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,24/01/2016,21:27,2016,1,19.376215,-99.210848,"Despertador Americano, Ampliación Las Golondrinas, Álvaro Obregón, CDMX, 01270, México",1
+1451,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,25/01/2016,03:00,2016,1,19.373755,-99.193069,"Giovanni Sassoferrato, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+1602,P-1.4.4,ROBO DE VEHICULO AUTOMOTOR S.V.,27/01/2016,11:25,2016,1,19.343507,-99.191491,"La invencible, Arteaga, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+1671,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,28/01/2016,11:23,2016,1,19.401081,-99.199418,"Sur 122, COVE, Álvaro Obregón, CDMX, 01120, México",1
+1673,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,28/01/2016,23:22,2016,1,19.364578,-99.236955,"Araucaria, Garcimarrero, Álvaro Obregón, CDMX, 01510, México",1
+1729,S-3.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,28/01/2016,16:48,2016,1,19.3263,-99.212755,"Pemex, Lateral Periferico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+1804,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,30/01/2016,02:15,2016,1,19.372645,-99.199672,"Av. del Rosal, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+1856,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,31/01/2016,00:06,2016,1,19.369795,-99.201907,"Rosa Bengala, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+1895,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,01/02/2016,23:26,2016,2,19.389297,-99.194198,"Avenida Central, 8 de Agosto, Álvaro Obregón, CDMX, 01180, México",1
+1897,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,01/02/2016,18:15,2016,2,19.350675,-99.19937,"Mariscal, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+1966,P-1.2.1,ROBO DE VEHICULO AUTOMOTOR S.V.,02/02/2016,20:16,2016,2,19.40014,-99.199722,"Sur 122, Central Camionera Poniente, Álvaro Obregón, CDMX, 01140, México",1
+1968,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,02/02/2016,18:37,2016,2,19.351167,-99.189592,"Cinemex, Angelina, Campestre, Álvaro Obregón, CDMX, 01040, México",1
+2025,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,03/02/2016,18:47,2016,2,19.354866,-99.188412,"Manuel M. Ponce, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+2107,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,04/02/2016,13:44,2016,2,19.36589,-99.204608,"5P, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+2108,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,04/02/2016,15:44,2016,2,19.367002,-99.220415,"Calzada de la Romeria, Mixcoac, Álvaro Obregón, CDMX, 01450, México",1
+2192,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,05/02/2016,11:45,2016,2,19.380615,-99.238337,"Segunda Cerrada Pueblo Nuevo, Pueblo Nuevo, Álvaro Obregón, CDMX, 01240, México",1
+2249,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,05/02/2016,20:03,2016,2,19.356082,-99.179747,"Hortensia, Florida, Álvaro Obregón, CDMX, 01030, México",1
+2265,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,06/02/2016,00:30,2016,2,19.377592,-99.229466,"Zongolica, Jalalpa, Álvaro Obregón, CDMX, 01296, México",1
+2362,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,08/02/2016,23:24,2016,2,19.361977,-99.212172,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+2450,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,09/02/2016,00:25,2016,2,19.369787,-99.222831,"Calle 36, Galeana, Álvaro Obregón, CDMX, 01407, México",1
+2451,P-1.2.1,ROBO DE VEHICULO AUTOMOTOR S.V.,09/02/2016,12:24,2016,2,19.397387,-99.213042,"Av de las Torres, El Capulín, Álvaro Obregón, CDMX, 01110, México",1
+2453,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,09/02/2016,23:29,2016,2,19.361868,-99.223309,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+2558,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,10/02/2016,12:38,2016,2,19.358561,-99.248331,"San Marcos, Reacomodo Corpus Christi, Álvaro Obregón, CDMX, 01530, México",1
+2572,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,11/02/2016,00:05,2016,2,19.389047,-99.193915,"Trustnet, Central, San Pedro de los Pinos, Álvaro Obregón, CDMX, 01180, México",1
+2573,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,11/02/2016,09:21,2016,2,19.373135,-99.259372,"Roberto Medellín, Centro Comercial Lomas de Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+2612,O-1.2.17,ROBO DE VEHICULO AUTOMOTOR S.V.,11/02/2016,23:55,2016,2,19.358297,-99.067102,"Álvaro Obregón, Eva Samano de López Mateos, Iztapalapa, CDMX, 09359, México",1
+2639,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,12/02/2016,22:25,2016,2,19.365185,-99.194493,"Mixcoac, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+2803,P-1.1.9,ROBO DE VEHICULO AUTOMOTOR S.V.,15/02/2016,16:45,2016,2,19.342312,-99.214632,"Privada De Los Ángeles, Lomas de los Ángeles Tetelpan, Álvaro Obregón, CDMX, 01780, México",1
+2881,P-1.4.5,ROBO DE VEHICULO AUTOMOTOR S.V.,16/02/2016,23:52,2016,2,19.342003,-99.188399,"Chimalistac, Álvaro Obregón, CDMX, 01070, México",1
+3049,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,18/02/2016,10:26,2016,2,19.337247,-99.199334,"Seguro Social, Río Magdalena, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+3359,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,23/02/2016,00:22,2016,2,19.389291,-99.194272,"Avenida Central, 8 de Agosto, Álvaro Obregón, CDMX, 01180, México",1
+3363,P-1.4.10,ROBO DE VEHICULO AUTOMOTOR S.V.,23/02/2016,15:46,2016,2,19.309047,-99.210558,"Liceo Mexicano Japonés, Camino a Santa Teresa, Álvaro Obregón, CDMX, 04510, México",1
+3435,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,24/02/2016,10:23,2016,2,19.359138,-99.24605,"Realitos, Acuilotla, Álvaro Obregón, CDMX, 01539, México",1
+3527,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,25/02/2016,11:39,2016,2,19.38229,-99.210052,"El Pocito, Álvaro Obregón, CDMX, 01280, México",1
+3528,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,25/02/2016,17:23,2016,2,19.396115,-99.217702,"Belén de las flores Sección Relleno, Álvaro Obregón, CDMX, 01110, México",1
+3530,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,25/02/2016,11:46,2016,2,19.337399,-99.202504,"Aguascalientes, Ermita Tizapán, Álvaro Obregón, CDMX, 01089, México",1
+3551,P-1.7.3,ROBO DE VEHICULO AUTOMOTOR S.V.,25/02/2016,23:51,2016,2,19.362039,-99.273581,"Sanborns, Vasco de Quiroga, Residencial Parque Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+3793,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,29/02/2016,09:52,2016,2,19.37186,-99.213676,"Ernesto P. Uruchurtu, Las Golondrinas 1a. Sección, Álvaro Obregón, CDMX, 01270, México",1
+3855,N-4.3.1,ROBO DE VEHICULO AUTOMOTOR S.V.,29/02/2016,18:33,2016,2,19.411713,-99.118967,"Bacerac, Álvaro Obregón, Venustiano Carranza, CDMX, 15900, México",1
+3858,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,01/03/2016,05:57,2016,3,19.338057,-99.214004,"Ciclopista, Miguel Hidalgo, Álvaro Obregón, CDMX, 01789, México",1
+4015,P-1.4.4,ROBO DE VEHICULO AUTOMOTOR S.V.,03/03/2016,16:24,2016,3,19.34128,-99.198767,"Mercado Tizapan, Frontera, Batán Barrio Viejo, Álvaro Obregón, CDMX, 01080, México",1
+4061,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,03/03/2016,17:57,2016,3,19.362053,-99.176169,"Axotla, Álvaro Obregón, CDMX, 01030, México",1
+4086,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,04/03/2016,10:28,2016,3,19.37373,-99.205327,"Av. Santa Lucía, Batallón de San Patricio, Álvaro Obregón, CDMX, 01450, México",1
+4090,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,04/03/2016,13:09,2016,3,19.390851,-99.214072,"Húngaros, Zenón Delgado, Álvaro Obregón, CDMX, 01220, México",1
+4091,P-1.5.6,ROBO DE VEHICULO AUTOMOTOR S.V.,04/03/2016,11:51,2016,3,19.35711,-99.239635,"Camino Puerto Ceguayo, Balcones de Ceguayo, Álvaro Obregón, CDMX, 01540, México",1
+4161,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,05/03/2016,14:19,2016,3,19.37329,-99.2289,"Temixco, 2a. Ampliación Presidentes, Álvaro Obregón, CDMX, 01299, México",1
+4162,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,05/03/2016,11:36,2016,3,19.350557,-99.196743,"Calero, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+4264,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,06/03/2016,12:38,2016,3,19.339328,-99.196795,"Ferrocarril del Valle, Tizapán, Álvaro Obregón, CDMX, 01090, México",1
+4276,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,07/03/2016,14:08,2016,3,19.369184,-99.233207,"Puerto Acapulco, Garcimarrero Norte, Álvaro Obregón, CDMX, 01510, México",1
+4605,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,11/03/2016,16:43,2016,3,19.379032,-99.199733,"Bodega Aurrera, Rosa Blanca, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+4663,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,12/03/2016,15:13,2016,3,19.337646,-99.197555,"BANSEFI, Río Magdalena, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+4761,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,14/03/2016,15:06,2016,3,19.395801,-99.192432,"Cenzotle, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+4763,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,14/03/2016,15:13,2016,3,19.389534,-99.209443,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+4774,P-1.4.9,ROBO DE VEHICULO AUTOMOTOR S.V.,14/03/2016,12:14,2016,3,19.326351,-99.20041,"Iglesia, La Otra Banda, Álvaro Obregón, CDMX, 01090, México",1
+4838,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,15/03/2016,19:59,2016,3,19.36599,-99.202087,"Iztapalapa, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+5002,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,17/03/2016,13:47,2016,3,19.337089,-99.21883,"Torres de Ixtapaltongo, Olivar de los Padres, Álvaro Obregón, CDMX, 01780, México",1
+5003,P-1.1.6,ROBO DE VEHICULO AUTOMOTOR S.V.,17/03/2016,15:15,2016,3,19.338375,-99.20597,"Queretaro, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+5081,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,18/03/2016,00:30,2016,3,19.37931,-99.192458,"Ambrossi, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+5323,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,22/03/2016,12:44,2016,3,19.389307,-99.194147,"Avenida Central, 8 de Agosto, Álvaro Obregón, CDMX, 01180, México",1
+5390,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,23/03/2016,12:18,2016,3,19.380609,-99.242354,"Bodega Aurrera Exprés, Vasco de Quiroga, Margarita Maza de Juárez, Álvaro Obregón, CDMX, 01250, México",1
+5458,P-1.5.6,ROBO DE VEHICULO AUTOMOTOR S.V.,24/03/2016,09:45,2016,3,19.350828,-99.247802,"Residencial Tarango, Álvaro Obregón, CDMX, 01588, México",1
+5613,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,28/03/2016,11:45,2016,3,19.395684,-99.202085,"Jolel Volkswagen, Mina Purísima, Real del monte, Álvaro Obregón, CDMX, 01130, México",1
+5615,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,28/03/2016,19:34,2016,3,19.340642,-99.190352,"Dirección General de Profesiones, Av. Insurgentes Sur, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+5692,P-1.5.2,ROBO DE VEHICULO AUTOMOTOR S.V.,29/03/2016,00:11,2016,3,19.381315,-99.232469,"Paso de Chacabuco, La Mexicana, Álvaro Obregón, CDMX, 01260, México",1
+5693,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,29/03/2016,14:02,2016,3,19.383505,-99.236454,"Galeana, Santa Fe, Álvaro Obregón, CDMX, 01210, México",1
+5694,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,29/03/2016,14:33,2016,3,19.324912,-99.260601,"29 de Octubre, Lomas de La Hera, Álvaro Obregón, CDMX, 01860, México",1
+5771,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,30/03/2016,11:10,2016,3,19.35588,-99.181787,"Hortensia, Florida, Álvaro Obregón, CDMX, 01030, México",1
+5826,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,31/03/2016,15:16,2016,3,19.362892,-99.247192,"San Francisco, Corpus Christi, Álvaro Obregón, CDMX, 01530, México",1
+5861,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,31/03/2016,23:22,2016,3,19.374018,-99.252921,"Fernando Espinosa Gutiérrez, ZEDEC Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+5886,O-2.3.1,ROBO DE VEHICULO AUTOMOTOR S.V.,31/03/2016,06:15,2016,3,19.372782,-99.040475,"Plutarco Elías Calles, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+5987,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,02/04/2016,17:42,2016,4,19.382926,-99.20749,"Mercurio, Francisco Villa, Álvaro Obregón, CDMX, 01280, México",1
+5988,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,02/04/2016,20:51,2016,4,19.355856,-99.2561,"San Isidro Alto Lerma, Reacomodo Corpus Christi, Álvaro Obregón, CDMX, 01530, México",1
+6050,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,03/04/2016,15:40,2016,4,19.394538,-99.201037,"Mina Zoyopan, Lomas de Santo Domingo, Álvaro Obregón, CDMX, 01100, México",1
+6103,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,04/04/2016,12:42,2016,4,19.365857,-99.205739,"5 de Mayo, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+6344,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,07/04/2016,15:40,2016,4,19.401899,-99.197065,"Sur 112-A, COVE, Álvaro Obregón, CDMX, 01120, México",1
+6347,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,07/04/2016,13:14,2016,4,19.380812,-99.235862,"Andador Palma, El Árbol, Álvaro Obregón, CDMX, 01250, México",1
+6418,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,08/04/2016,11:52,2016,4,19.371695,-99.230711,"Gustavo Díaz Ordaz, Ampliación Piloto Adolfo López Mateos, Álvaro Obregón, CDMX, 01298, México",1
+6424,P-1.4.8,ROBO DE VEHICULO AUTOMOTOR S.V.,08/04/2016,13:09,2016,4,19.330679,-99.208766,"Comercial Mexicana, Cda. Niebla, Progreso Tizapán, Álvaro Obregón, CDMX, 01080, México",1
+6559,P-1.1.10,ROBO DE VEHICULO AUTOMOTOR S.V.,10/04/2016,12:58,2016,4,19.34724,-99.227379,"Alcanfores, Puente Colorado, Álvaro Obregón, CDMX, 01730, México",1
+6610,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,11/04/2016,11:45,2016,4,19.377019,-99.200612,"Cátodo, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+6614,P-1.4.7,ROBO DE VEHICULO AUTOMOTOR S.V.,11/04/2016,01:11,2016,4,19.334818,-99.201338,"Fraternidad, La Otra Banda, Álvaro Obregón, CDMX, 01090, México",1
+6698,P-1.1.7,ROBO DE VEHICULO AUTOMOTOR S.V.,12/04/2016,22:18,2016,4,19.329757,-99.260653,"Centro hípico, Calle Miguel Hidalgo y Costilla, San Bartolo Ameyalco, Álvaro Obregón, CDMX, 01800, México",1
+6785,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,13/04/2016,18:20,2016,4,19.383029,-99.237516,"Galeana, Santa Fe, Álvaro Obregón, CDMX, 01210, México",1
+6857,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,14/04/2016,15:58,2016,4,19.380404,-99.213077,"Golondrina de los Acantilados, Ampliación Las Golondrinas, Álvaro Obregón, CDMX, 01270, México",1
+7021,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,17/04/2016,21:32,2016,4,19.364721,-99.198379,"Liga Olmeca, 5 de Mayo, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+7022,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,17/04/2016,23:31,2016,4,19.373271,-99.197843,"Rosa de Oro, La Cascada, Álvaro Obregón, CDMX, 01490, México",1
+7156,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,19/04/2016,10:22,2016,4,19.338927,-99.196227,"Cuahutemoc, Tizapán, Álvaro Obregón, CDMX, 01090, México",1
+7158,P-1.5.6,ROBO DE VEHICULO AUTOMOTOR S.V.,19/04/2016,17:37,2016,4,19.359099,-99.241134,"Tirso de Molina, Ceguaya, Álvaro Obregón, CDMX, 01540, México",1
+7159,P-1.4.5,ROBO DE VEHICULO AUTOMOTOR S.V.,19/04/2016,22:22,2016,4,19.341684,-99.188764,"Rioja, Av. Insurgentes Sur, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+7205,S-3.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,19/04/2016,00:06,2016,4,19.334082,-99.210375,"Izcalli, Lateral Periferico, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+7290,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,21/04/2016,13:29,2016,4,19.361037,-99.226143,"Centenario, Huaytlale, Álvaro Obregón, CDMX, 01566, México",1
+7642,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,27/04/2016,10:56,2016,4,19.370055,-99.198856,"Río Mixcoac, La Cascada, Álvaro Obregón, CDMX, 01490, México",1
+7721,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,28/04/2016,12:12,2016,4,19.339341,-99.193367,"Plaza Loreto, Altamirano, Loreto, Álvaro Obregón, CDMX, 01090, México",1
+7900,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,01/05/2016,01:26,2016,5,19.364746,-99.204214,"Calle 1, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+7909,P-1.7.3,ROBO DE VEHICULO AUTOMOTOR S.V.,01/05/2016,10:14,2016,5,19.361967,-99.27366,"Sanborns, Vasco de Quiroga, Residencial Parque Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+8013,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,03/05/2016,18:34,2016,5,19.371015,-99.198294,"Rosa Estrella, La Cascada, Álvaro Obregón, CDMX, 01490, México",1
+8265,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,06/05/2016,15:35,2016,5,19.353062,-99.187391,"Sports World, Fernando Villalpando, Campestre, Álvaro Obregón, CDMX, 01040, México",1
+8279,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,07/05/2016,17:43,2016,5,19.366128,-99.20289,"Centenario, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+8322,P-1.4.5,ROBO DE VEHICULO AUTOMOTOR S.V.,07/05/2016,18:44,2016,5,19.344581,-99.186694,"Del Carmen, Chimalistac, Álvaro Obregón, CDMX, 01070, México",1
+8335,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,08/05/2016,20:54,2016,5,19.375417,-99.199608,"El Tapanco, Rosa Blanca, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+8336,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,08/05/2016,22:54,2016,5,19.36614,-99.203318,"Xochimilco, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+8382,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,09/05/2016,13:32,2016,5,19.339094,-99.224484,"San Francisco, San José del Olivar, Álvaro Obregón, CDMX, 01770, México",1
+8447,P-1.5.2,ROBO DE VEHICULO AUTOMOTOR S.V.,10/05/2016,23:15,2016,5,19.383968,-99.226726,"Paso Santa Isabel, La Cañada 2a. Sección, Álvaro Obregón, CDMX, 01269, México",1
+8510,S-1.2.1,ROBO DE VEHICULO AUTOMOTOR S.V.,11/05/2016,23:51,2016,5,19.364059,-99.178041,"Margaritas, Álvaro Obregón, CDMX, 03810, México",1
+8561,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,12/05/2016,20:38,2016,5,19.350755,-99.193455,"Reina, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+8627,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,13/05/2016,05:45,2016,5,19.361149,-99.24942,"Santo Tomas, Corpus Christi, Álvaro Obregón, CDMX, 01530, México",1
+8694,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,14/05/2016,21:17,2016,5,19.350571,-99.197863,"Calero, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+8737,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,14/05/2016,15:35,2016,5,19.357703,-99.173476,"Cjon. Artes, Axotla, Álvaro Obregón, CDMX, 01030, México",1
+8794,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,16/05/2016,20:15,2016,5,19.377206,-99.218074,"Lerdo de Tejada, Las Golondrinas 1a. Sección, Álvaro Obregón, CDMX, 01270, México",1
+8799,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,16/05/2016,12:53,2016,5,19.314223,-99.267005,"Terminal capulin ruta 43, 29 de Octubre, Lomas de La Hera, Álvaro Obregón, CDMX, 01860, México",1
+8882,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,17/05/2016,19:16,2016,5,19.397811,-99.192501,"Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+8891,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,17/05/2016,16:40,2016,5,19.338522,-99.194374,"Inbursa, Río Magdalena, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+8963,P-1.5.2,ROBO DE VEHICULO AUTOMOTOR S.V.,18/05/2016,09:35,2016,5,19.383223,-99.234641,"MONTE DE PIEDAD SUC.258 / SANTA FE, Vasco de Quiroga, Margarita Maza de Juárez, Álvaro Obregón, CDMX, 01250, México",1
+8964,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,18/05/2016,12:59,2016,5,19.354933,-99.188697,"Manuel M. Ponce, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+9089,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,20/05/2016,01:07,2016,5,19.321347,-99.262021,"3 Alcanfores, Lomas de La Hera, Álvaro Obregón, CDMX, 01860, México",1
+9154,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,21/05/2016,16:08,2016,5,19.37991,-99.224928,"Tomas Wilson, Álvaro Obregón Desarrollo Urbano, Álvaro Obregón, CDMX, 01278, México",1
+9204,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,22/05/2016,10:09,2016,5,19.365676,-99.207022,"5 de Mayo, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+9205,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,22/05/2016,02:56,2016,5,19.378202,-99.246756,"Claveles, La Huerta, Álvaro Obregón, CDMX, 01230, México",1
+9389,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,25/05/2016,12:04,2016,5,19.373506,-99.199482,"ska-p Bike, Rosa Blanca, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+9392,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,25/05/2016,02:02,2016,5,19.335152,-99.226998,"La Casa de los abuelos, Avenida de las Torres, San José del Olivar, Álvaro Obregón, CDMX, 01770, México",1
+9395,P-1.1.8,ROBO DE VEHICULO AUTOMOTOR S.V.,25/05/2016,12:32,2016,5,19.327399,-99.252973,"Pino, Torres de Potrero, Álvaro Obregón, CDMX, 01840, México",1
+9565,P-1.1.1,ROBO DE VEHICULO AUTOMOTOR S.V.,27/05/2016,12:09,2016,5,19.323824,-99.288304,"Santa Rosa Xochiac, Álvaro Obregón, CDMX, 01830, México",1
+9637,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,29/05/2016,02:11,2016,5,19.381008,-99.206999,"Camino Minas, Arvide, Álvaro Obregón, CDMX, 01280, México",1
+9638,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,29/05/2016,13:28,2016,5,19.396242,-99.195863,"Halcón, José María Pino Suárez, Álvaro Obregón, CDMX, 01140, México",1
+9879,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,02/06/2016,19:20,2016,6,19.373415,-99.195051,"Rosa de Castilla, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+10045,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,05/06/2016,10:12,2016,6,19.339758,-99.197404,"Independencia, Tizapán, Álvaro Obregón, CDMX, 01090, México",1
+10046,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,05/06/2016,10:48,2016,6,19.33932,-99.23302,"Barbacoa de Santiago, Camino al Desierto de los Leones, La Herradura, Álvaro Obregón, CDMX, 01760, México",1
+10090,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,06/06/2016,21:16,2016,6,19.355677,-99.188591,"Ricardo Palmerín, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+10167,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,07/06/2016,21:17,2016,6,19.376609,-99.196031,"Benvenuto Cellini, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+10168,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,07/06/2016,23:14,2016,6,19.392436,-99.20983,"San José, Molino de Santo Domingo, Álvaro Obregón, CDMX, 01130, México",1
+10169,P-1.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,07/06/2016,02:01,2016,6,19.356459,-99.249009,"Reacomodo Corpus Christi, Álvaro Obregón, CDMX, 01530, México",1
+10301,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,09/06/2016,13:36,2016,6,19.35847,-99.231534,"Principal, Puerta Grande, Álvaro Obregón, CDMX, 01630, México",1
+10360,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,10/06/2016,01:19,2016,6,19.335667,-99.201289,"Seguro Social, Río Magdalena, Loreto y Campamento, Álvaro Obregón, CDMX, 01090, México",1
+10407,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,11/06/2016,11:10,2016,6,19.388106,-99.21008,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+10455,P-1.1.5,ROBO DE VEHICULO AUTOMOTOR S.V.,12/06/2016,20:49,2016,6,19.359451,-99.197131,"Calz de Las Águilas, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+10498,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,13/06/2016,20:22,2016,6,19.320449,-99.261122,"Vicente Guerrero, Lomas de La Hera, Álvaro Obregón, CDMX, 01860, México",1
+10571,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,14/06/2016,22:05,2016,6,19.399386,-99.19762,"Sur 114, COVE, Álvaro Obregón, CDMX, 01120, México",1
+10572,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,14/06/2016,20:07,2016,6,19.368507,-99.219613,"Calz. Charreria, Mixcoac, Álvaro Obregón, CDMX, 01450, México",1
+10630,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,15/06/2016,15:37,2016,6,19.387696,-99.200383,"Escuadrón 201, Cristo Rey, Álvaro Obregón, CDMX, 01150, México",1
+10634,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,15/06/2016,13:08,2016,6,19.376054,-99.194641,"Carlos Dolci, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+10701,P-1.4.8,ROBO DE VEHICULO AUTOMOTOR S.V.,16/06/2016,22:02,2016,6,19.330894,-99.207986,"Comercial Mexicana, Cda. Niebla, Progreso Tizapán, Álvaro Obregón, CDMX, 01080, México",1
+10703,P-1.4.7,ROBO DE VEHICULO AUTOMOTOR S.V.,16/06/2016,22:19,2016,6,19.334887,-99.201008,"Fraternidad, La Otra Banda, Álvaro Obregón, CDMX, 01090, México",1
+10770,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,17/06/2016,10:07,2016,6,19.369521,-99.192421,"Francisco P. Miranda, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+10772,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,17/06/2016,12:29,2016,6,19.360876,-99.222165,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+10822,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,18/06/2016,11:05,2016,6,19.37187,-99.193219,"A-9, Rosa Trepadora, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+10824,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,18/06/2016,00:43,2016,6,19.33826,-99.218561,"Avenida Torres Ixtapaltongo, Olivar de los Padres, Álvaro Obregón, CDMX, 01780, México",1
+11062,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,23/06/2016,20:29,2016,6,19.377734,-99.192995,"Giovanni Sassoferrato, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+11111,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,24/06/2016,10:33,2016,6,19.368771,-99.19174,"Periférico Sur - Segundo Piso, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+11112,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,24/06/2016,12:47,2016,6,19.364574,-99.224613,"Calzada de las Arcadas, Canutillo 3a. Sección, Álvaro Obregón, CDMX, 01566, México",1
+11115,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,24/06/2016,19:02,2016,6,19.397686,-99.193396,"Halcón, José María Pino Suárez, Álvaro Obregón, CDMX, 01140, México",1
+11240,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,26/06/2016,20:20,2016,6,19.363537,-99.211457,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+11241,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,26/06/2016,23:38,2016,6,19.377434,-99.198284,"Olivar, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+11278,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,27/06/2016,14:54,2016,6,19.377873,-99.220419,"Francisco I. Madero, Presidentes, Álvaro Obregón, CDMX, 01290, México",1
+11282,P-1.1.9,ROBO DE VEHICULO AUTOMOTOR S.V.,27/06/2016,14:07,2016,6,19.339802,-99.23675,"Las Flores, Tetelpan, Álvaro Obregón, CDMX, 01700, México",1
+11333,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,28/06/2016,22:37,2016,6,19.36692,-99.261257,"Camino Real Santa Fe, Av. Santa Fe, Residencial Parque Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+11408,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,29/06/2016,18:44,2016,6,19.374935,-99.194432,"Carlos Dolci, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+11448,O-2.1.14,ROBO DE VEHICULO AUTOMOTOR S.V.,29/06/2016,18:58,2016,6,19.374937,-99.036041,"Batalla Celaya, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+11485,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,30/06/2016,14:58,2016,6,19.396006,-99.209259,"Bajada Capulín, El Capulín, Álvaro Obregón, CDMX, 01110, México",1
+11487,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,30/06/2016,22:22,2016,6,19.366267,-99.25979,"Banobras S.N.C, Av. Javier Barros Sierra, Residencial Parque Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+11489,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,30/06/2016,11:45,2016,6,19.358674,-99.185197,"Miguel Lerdo de Tejada, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+11559,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,01/07/2016,09:54,2016,7,19.33717,-99.200683,"Miguel Hidalgo, Ermita Tizapán, Álvaro Obregón, CDMX, 01089, México",1
+11567,S-1.3.11,ROBO DE VEHICULO AUTOMOTOR S.V.,01/07/2016,03:29,2016,7,19.362784,-99.189706,"Alpes, Los Alpes, Álvaro Obregón, CDMX, 01010, México",1
+11621,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,02/07/2016,00:54,2016,7,19.38878,-99.205684,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+11672,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,03/07/2016,19:29,2016,7,19.376409,-99.204837,"Calle 7, Batallón de San Patricio, Álvaro Obregón, CDMX, 01450, México",1
+11726,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,04/07/2016,16:36,2016,7,19.387322,-99.210249,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+11727,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,04/07/2016,17:10,2016,7,19.374675,-99.20702,"Calle 10, Olivar del Conde 1a. Sección, Álvaro Obregón, CDMX, 01400, México",1
+11788,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,05/07/2016,08:27,2016,7,19.361939,-99.223417,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+11792,P-1.1.10,ROBO DE VEHICULO AUTOMOTOR S.V.,05/07/2016,23:48,2016,7,19.348379,-99.22021,"1er Retorno de Arrecife, Ampliación Las Águilas, Álvaro Obregón, CDMX, 01759, México",1
+11865,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,06/07/2016,16:32,2016,7,19.373632,-99.193093,"Zurbarán, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+11982,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,08/07/2016,10:19,2016,7,19.39086,-99.21164,"Alemanes, El Paraíso, Álvaro Obregón, CDMX, 01130, México",1
+11983,P-1.1.5,ROBO DE VEHICULO AUTOMOTOR S.V.,08/07/2016,12:17,2016,7,19.355035,-99.205509,"Minas, Pilares Águilas, Álvaro Obregón, CDMX, 01710, México",1
+11984,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,08/07/2016,15:50,2016,7,19.360897,-99.214358,"Parque Tarango, 5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+11985,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,08/07/2016,21:50,2016,7,19.389928,-99.207571,"El SUPER, S/N, Camino Real de Toluca, Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01170, México",1
+12039,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,09/07/2016,18:50,2016,7,19.367028,-99.233802,"Avenida Tamaulipas, Los Cedros, Álvaro Obregón, CDMX, 01510, México",1
+12040,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,09/07/2016,01:08,2016,7,19.315092,-99.268297,"Violeta, Paraje del Caballito, Álvaro Obregón, CDMX, 01856, México",1
+12094,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,10/07/2016,04:52,2016,7,19.375881,-99.193419,"Giovanni Sassoferrato, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+12135,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,11/07/2016,15:47,2016,7,19.389307,-99.194147,"Avenida Central, 8 de Agosto, Álvaro Obregón, CDMX, 01180, México",1
+12136,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,11/07/2016,00:11,2016,7,19.373456,-99.211142,"Primera Cerrada Calle 22, Preconcreto, Álvaro Obregón, CDMX, 01400, México",1
+12250,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,13/07/2016,11:43,2016,7,19.39128,-99.194712,"Sur 110, Tolteca, Álvaro Obregón, CDMX, 01150, México",1
+12324,P-1.1.2,ROBO DE VEHICULO AUTOMOTOR S.V.,14/07/2016,15:50,2016,7,19.320857,-99.267598,"De Caoba, Lomas de Chamontoya, Álvaro Obregón, CDMX, 01857, México",1
+12325,P-1.1.8,ROBO DE VEHICULO AUTOMOTOR S.V.,14/07/2016,16:06,2016,7,19.332852,-99.233143,"La Angostura, Álvaro Obregón, CDMX, 01770, México",1
+12400,P-1.4.2,ROBO DE VEHICULO AUTOMOTOR S.V.,15/07/2016,15:34,2016,7,19.361896,-99.187826,"Silvestre Revueltas, Guadalupe Inn, Álvaro Obregón, CDMX, 01020, México",1
+12448,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,16/07/2016,02:04,2016,7,19.368352,-99.193203,"Dr. Enrique Cabrera, Torres de Mixcoac, Álvaro Obregón, CDMX, 01490, México",1
+12449,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,16/07/2016,15:51,2016,7,19.366085,-99.198702,"Tacuba, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+12492,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,17/07/2016,17:23,2016,7,19.366356,-99.233038,"Estribo, Garcimarrero, Álvaro Obregón, CDMX, 01510, México",1
+12494,P-1.1.6,ROBO DE VEHICULO AUTOMOTOR S.V.,17/07/2016,16:51,2016,7,19.343548,-99.204719,"Ciclopista, La Herradura, Álvaro Obregón, CDMX, 01760, México",1
+12586,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,19/07/2016,02:42,2016,7,19.367217,-99.217922,"Calzada de la Romeria, Mixcoac, Álvaro Obregón, CDMX, 01450, México",1
+12588,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,19/07/2016,20:15,2016,7,19.395041,-99.198104,"Laminadora, Bosques 1a. Sección, Álvaro Obregón, CDMX, 01160, México",1
+12589,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,19/07/2016,23:49,2016,7,19.374922,-99.195466,"Guido Reni, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+12639,P-3.5.5,ROBO DE VEHICULO AUTOMOTOR S.V.,19/07/2016,08:54,2016,7,19.402511,-99.196497,"5a Cerrada de Observatorio, COVE, Álvaro Obregón, CDMX, 01120, México",1
+12651,P-1.5.2,ROBO DE VEHICULO AUTOMOTOR S.V.,20/07/2016,09:58,2016,7,19.382163,-99.224618,"Cañada del Río Pinto, La Cañada 1a. Sección, Álvaro Obregón, CDMX, 01269, México",1
+12698,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,21/07/2016,11:44,2016,7,19.374873,-99.200531,"Rosa Negra, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+12749,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,22/07/2016,23:52,2016,7,19.370396,-99.248028,"Bernardo Quintana, La Loma, Álvaro Obregón, CDMX, 01260, México",1
+12750,P-1.1.10,ROBO DE VEHICULO AUTOMOTOR S.V.,22/07/2016,10:50,2016,7,19.348931,-99.225931,"HSBC, Calzada de las Aguilas, Puente Colorado, Álvaro Obregón, CDMX, 01730, México",1
+12802,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,23/07/2016,15:58,2016,7,19.388827,-99.205943,"Unidad Habitacional Santa Fe, Álvaro Obregón, CDMX, 01220, México",1
+12849,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,24/07/2016,18:58,2016,7,19.378699,-99.215469,"Quetzal, Las Golondrinas 1a. Sección, Álvaro Obregón, CDMX, 01270, México",1
+12850,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,24/07/2016,22:31,2016,7,19.388908,-99.190286,"0029, Lateral Periferico, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+12896,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,25/07/2016,21:01,2016,7,19.37626,-99.198753,"Giotto, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+13012,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,27/07/2016,00:08,2016,7,19.372138,-99.25895,"Vasco de Quiroga, Centro Comercial Lomas de Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+13014,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,27/07/2016,17:57,2016,7,19.375095,-99.197581,"Tiziano, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+13016,P-1.4.5,ROBO DE VEHICULO AUTOMOTOR S.V.,27/07/2016,09:12,2016,7,19.348113,-99.183152,"Miguel Angel de Quevedo, Guadalupe Chimalistac, Álvaro Obregón, CDMX, 01050, México",1
+13139,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,29/07/2016,13:42,2016,7,19.337669,-99.220154,"Los Milanesos, Avenida Torres Ixtapaltongo, Olivar de los Padres, Álvaro Obregón, CDMX, 01780, México",1
+13193,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,30/07/2016,00:59,2016,7,19.365953,-99.210506,"5 de Mayo, Unidad Cañada del Olivar, Álvaro Obregón, CDMX, 01450, México",1
+13195,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,30/07/2016,23:47,2016,7,19.395387,-99.192561,"General Felipe Ángeles, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+13196,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,30/07/2016,09:14,2016,7,19.375457,-99.200169,"Rosa Negra, Alfalfar, Álvaro Obregón, CDMX, 01470, México",1
+13240,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,31/07/2016,23:35,2016,7,19.370733,-99.219004,"Calle 29, calle 29 olivar del conde, Álvaro Obregón, CDMX, 01408, México",1
+13275,S-3.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,31/07/2016,18:38,2016,7,19.32389,-99.226762,"Jenjibre Pastelería, Ciclopista, Miguel Hidalgo, Álvaro Obregón, CDMX, 01789, México",1
+13310,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,01/08/2016,13:34,2016,8,19.39437,-99.197958,"Laminadora, Bosques 1a. Sección, Álvaro Obregón, CDMX, 01160, México",1
+13364,O-3.6.8,ROBO DE VEHICULO AUTOMOTOR S.V.,01/08/2016,11:43,2016,8,19.258116,-99.018615,"Calle Álvaro Obregón, Las Ánimas, Xochimilco, CDMX, 16739, México",1
+13366,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,02/08/2016,04:18,2016,8,19.393004,-99.194576,"Prolongación División del Norte, Ampliación Bosques 2a. Sección, Álvaro Obregón, CDMX, 01150, México",1
+13499,S-3.1.1,ROBO DE VEHICULO AUTOMOTOR S.V.,03/08/2016,20:09,2016,8,19.316985,-99.22952,"Ciclopista, Miguel Hidalgo, Álvaro Obregón, CDMX, 01789, México",1
+13591,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,05/08/2016,20:21,2016,8,19.379025,-99.225372,"Tomas Wilson, Álvaro Obregón Desarrollo Urbano, Álvaro Obregón, CDMX, 01278, México",1
+13744,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,08/08/2016,05:35,2016,8,19.375914,-99.232877,"Avenida Juchique, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+13745,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,08/08/2016,16:04,2016,8,19.395886,-99.19289,"Canario, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+13747,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,08/08/2016,00:50,2016,8,19.37175,-99.235941,"Ébano, Garcimarrero Norte, Álvaro Obregón, CDMX, 01510, México",1
+13748,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,08/08/2016,12:28,2016,8,19.386845,-99.203086,"Romanos, Primera Victoria Reacomodo, Álvaro Obregón, CDMX, 01160, México",1
+13806,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,09/08/2016,19:15,2016,8,19.36596,-99.201868,"Iztapalapa, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+14173,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,15/08/2016,11:06,2016,8,19.365994,-99.205636,"Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+14259,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,16/08/2016,10:32,2016,8,19.38926,-99.193678,"Trustnet, Central, San Pedro de los Pinos, Álvaro Obregón, CDMX, 01180, México",1
+14260,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,16/08/2016,12:45,2016,8,19.33952,-99.194639,"Campamento, Loreto, Álvaro Obregón, CDMX, 01090, México",1
+14374,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,18/08/2016,11:01,2016,8,19.402052,-99.195526,"Poniente 81, COVE, Álvaro Obregón, CDMX, 01120, México",1
+14375,P-1.5.6,ROBO DE VEHICULO AUTOMOTOR S.V.,18/08/2016,00:11,2016,8,19.357752,-99.239078,"Crisantemos, Tepeaca, Álvaro Obregón, CDMX, 01550, México",1
+14457,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,19/08/2016,15:04,2016,8,19.380907,-99.192177,"Juan Bautista Jouvenet, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+14512,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,20/08/2016,18:25,2016,8,19.377148,-99.197243,"Juan Cousin, Sacramento, Álvaro Obregón, CDMX, 01420, México",1
+14562,S-3.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,21/08/2016,11:39,2016,8,19.336813,-99.208397,"Queretaro, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+14609,P-1.2.7,ROBO DE VEHICULO AUTOMOTOR S.V.,22/08/2016,16:13,2016,8,19.373997,-99.19697,"Rosa de Castilla, Alfonso XIII, Álvaro Obregón, CDMX, 01460, México",1
+14675,P-1.2.5,ROBO DE VEHICULO AUTOMOTOR S.V.,23/08/2016,12:35,2016,8,19.386454,-99.190943,"Cotsco San Antonio, Lateral Periferico, Santa María Nonoalco, Álvaro Obregón, CDMX, 01420, México",1
+14676,P-1.4.5,ROBO DE VEHICULO AUTOMOTOR S.V.,23/08/2016,01:24,2016,8,19.344189,-99.187572,"Rafael Checa, Chimalistac, Álvaro Obregón, CDMX, 01070, México",1
+14732,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,24/08/2016,23:18,2016,8,19.372297,-99.209228,"Anenecuilco, PEZ, Álvaro Obregón, CDMX, 01400, México",1
+14800,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,25/08/2016,09:06,2016,8,19.369467,-99.198805,"Río Mixcoac, La Cascada, Álvaro Obregón, CDMX, 01490, México",1
+14801,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,25/08/2016,10:59,2016,8,19.377217,-99.229052,"Avenida Puerto Mazatlán, Jalalpa Tepito 2a. Ampliación, Álvaro Obregón, CDMX, 01296, México",1
+14912,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,27/08/2016,04:16,2016,8,19.339839,-99.202451,"Tlaxcala, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+14969,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,28/08/2016,18:56,2016,8,19.33697,-99.219183,"Avenida Torres Ixtapaltongo, Olivar de los Padres, Álvaro Obregón, CDMX, 01780, México",1
+15129,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,31/08/2016,19:23,2016,8,19.35989,-99.235423,"Marabú, Valentín Gómez Farías, Álvaro Obregón, CDMX, 01550, México",1
+15131,P-1.4.6,ROBO DE VEHICULO AUTOMOTOR S.V.,31/08/2016,18:42,2016,8,19.341111,-99.195367,"Río Chico, Tizapán, Álvaro Obregón, CDMX, 01090, México",1
+15132,P-1.4.4,ROBO DE VEHICULO AUTOMOTOR S.V.,31/08/2016,22:29,2016,8,19.342707,-99.191677,"Arteaga, Residencial Antigua San Jacinto, Álvaro Obregón, CDMX, 01090, México",1
+15189,P-1.1.5,ROBO DE VEHICULO AUTOMOTOR S.V.,01/09/2016,10:16,2016,9,19.360745,-99.199808,"Condor, Las Águilas, Álvaro Obregón, CDMX, 01710, México",1
+15256,P-1.5.6,ROBO DE VEHICULO AUTOMOTOR S.V.,02/09/2016,03:07,2016,9,19.351518,-99.246495,"Residencial Tarango, Álvaro Obregón, CDMX, 01588, México",1
+15330,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,03/09/2016,02:24,2016,9,19.36589,-99.204608,"5P, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+15333,P-1.1.6,ROBO DE VEHICULO AUTOMOTOR S.V.,03/09/2016,18:35,2016,9,19.340869,-99.205107,"Calle Puebla, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+15385,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,04/09/2016,02:09,2016,9,19.336326,-99.227145,"Avenida de las Torres, San José del Olivar, Álvaro Obregón, CDMX, 01770, México",1
+15441,P-1.2.6,ROBO DE VEHICULO AUTOMOTOR S.V.,05/09/2016,11:16,2016,9,19.378677,-99.20037,"Alta Tensión, Minas de Cristo, Álvaro Obregón, CDMX, 01419, México",1
+15507,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,06/09/2016,13:51,2016,9,19.392799,-99.211993,"Francisco Zarco, Liberales de 1857, Álvaro Obregón, CDMX, 01110, México",1
+15605,P-1.2.9,ROBO DE VEHICULO AUTOMOTOR S.V.,07/09/2016,21:43,2016,9,19.37089,-99.200641,"Rosa Vulcano, Molino de Rosas, Álvaro Obregón, CDMX, 01470, México",1
+15607,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,07/09/2016,14:37,2016,9,19.365892,-99.209782,"Bodega Aurrera Centenario, 5 de Mayo, Unidad Cañada del Olivar, Álvaro Obregón, CDMX, 01450, México",1
+15681,P-1.5.7,ROBO DE VEHICULO AUTOMOTOR S.V.,08/09/2016,11:28,2016,9,19.360995,-99.222139,"5 de Mayo, Fraccionamiento Ex Hacienda Tarango, Álvaro Obregón, CDMX, 01618, México",1
+15887,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,11/09/2016,16:20,2016,9,19.380135,-99.239341,"Pistache, Los Gamitos, Álvaro Obregón, CDMX, 01230, México",1
+15944,S-1.2.1,ROBO DE VEHICULO AUTOMOTOR S.V.,12/09/2016,23:44,2016,9,19.362471,-99.180084,"Telmex, Barranca del Muerto, Álvaro Obregón, CDMX, 03810, México",1
+16017,P-1.4.4,ROBO DE VEHICULO AUTOMOTOR S.V.,13/09/2016,11:56,2016,9,19.346836,-99.196345,"Gral. Marcial Lazcano, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+16026,P-1.2.4,ROBO DE VEHICULO AUTOMOTOR S.V.,13/09/2016,16:42,2016,9,19.386008,-99.202557,"Primera Victoria Reacomodo, Álvaro Obregón, CDMX, 01160, México",1
+16045,P-1.4.1,ROBO DE VEHICULO AUTOMOTOR S.V.,13/09/2016,19:28,2016,9,19.348689,-99.196556,"Gral. Marcial Lazcano, San Ángel Inn, Álvaro Obregón, CDMX, 01060, México",1
+16115,P-1.4.10,ROBO DE VEHICULO AUTOMOTOR S.V.,14/09/2016,14:28,2016,9,19.311578,-99.21093,"Boulevard de la Luz, Jardines del Pedregal, Álvaro Obregón, CDMX, 01900, México",1
+16187,S-3.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,14/09/2016,15:21,2016,9,19.332132,-99.209332,"Popotla, Progreso Tizapán, Álvaro Obregón, CDMX, 01080, México",1
+16258,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,16/09/2016,01:36,2016,9,19.366144,-99.204004,"Centenario, Sociedad Cooperativa Poder popular, Álvaro Obregón, CDMX, 01600, México",1
+16259,P-1.5.3,ROBO DE VEHICULO AUTOMOTOR S.V.,16/09/2016,18:27,2016,9,19.376914,-99.231805,"La Mexicana 2a. Ampliación, Álvaro Obregón, CDMX, 01260, México",1
+16343,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,18/09/2016,19:06,2016,9,19.377241,-99.254755,"Toks centro comercial Patio Santa fe, 200 Álvaro Obregón ,Zedec , Santa fe, Vasco de Quiroga, ZEDEC Santa Fe, Álvaro Obregón, CDMX, 45620, México",1
+16344,P-1.2.11,ROBO DE VEHICULO AUTOMOTOR S.V.,18/09/2016,20:21,2016,9,19.366915,-99.199483,"Circuito 2, Merced Gómez, Álvaro Obregón, CDMX, 01600, México",1
+16345,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,18/09/2016,23:39,2016,9,19.375678,-99.254189,"Vasco de Quiroga, ZEDEC Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+16382,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,19/09/2016,23:55,2016,9,19.400894,-99.196108,"Poniente 83, COVE, Álvaro Obregón, CDMX, 01120, México",1
+16387,P-1.5.1,ROBO DE VEHICULO AUTOMOTOR S.V.,19/09/2016,15:59,2016,9,19.375824,-99.253773,"Televisa Santa Fe, Fernando Espinosa Gutiérrez, ZEDEC Santa Fe, Álvaro Obregón, CDMX, 01219, México",1
+16389,P-1.2.10,ROBO DE VEHICULO AUTOMOTOR S.V.,19/09/2016,10:52,2016,9,19.362822,-99.215196,"Loma Chica, Lomas de Tarango, Álvaro Obregón, CDMX, 01620, México",1
+16451,O-2.3.1,ROBO DE VEHICULO AUTOMOTOR S.V.,19/09/2016,15:06,2016,9,19.376709,-99.041855,"Central de carga Cabeza de Juarez, Transportistas, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+16481,P-1.1.8,ROBO DE VEHICULO AUTOMOTOR S.V.,20/09/2016,15:07,2016,9,19.332539,-99.239218,"Ampliación Torres del Potrero, Álvaro Obregón, CDMX, 01840, México",1
+16482,P-1.1.6,ROBO DE VEHICULO AUTOMOTOR S.V.,20/09/2016,19:26,2016,9,19.341483,-99.207008,"Veracruz, Progreso, Álvaro Obregón, CDMX, 01080, México",1
+16487,P-1.4.3,ROBO DE VEHICULO AUTOMOTOR S.V.,20/09/2016,10:37,2016,9,19.355268,-99.180575,"Margaritas, Florida, Álvaro Obregón, CDMX, 01030, México",1
+16550,P-1.1.4,ROBO DE VEHICULO AUTOMOTOR S.V.,21/09/2016,20:49,2016,9,19.338464,-99.232228,"Santa Clara, Encino Grande, Segunda Del Moral, Álvaro Obregón, CDMX, 01700, México",1
+16610,P-1.2.3,ROBO DE VEHICULO AUTOMOTOR S.V.,22/09/2016,14:59,2016,9,19.392731,-99.205105,"24 de Febrero, Pólvora, Álvaro Obregón, CDMX, 01100, México",1
+16611,P-1.1.5,ROBO DE VEHICULO AUTOMOTOR S.V.,22/09/2016,14:40,2016,9,19.349858,-99.204054,"Atlamaya, Álvaro Obregón, CDMX, 01760, México",1
+16619,P-1.1.5,ROBO DE VEHICULO AUTOMOTOR S.V.,22/09/2016,16:03,2016,9,19.359681,-99.203387,"Las Águilas, Álvaro Obregón, CDMX, 01710, México",1
+16681,P-1.5.4,ROBO DE VEHICULO AUTOMOTOR S.V.,23/09/2016,19:36,2016,9,19.366345,-99.224512,"3a Cerrada de los Corceles, Colinas del Sur, Álvaro Obregón, CDMX, 01430, México",1
+16683,P-1.2.8,ROBO DE VEHICULO AUTOMOTOR S.V.,23/09/2016,03:49,2016,9,19.37218,-99.207588,"PEZ, Álvaro Obregón, CDMX, 01400, México",1
+16721,O-2.1.14,ROBO DE VEHICULO AUTOMOTOR S.V.,23/09/2016,10:24,2016,9,19.372875,-99.038229,"A. Arrieta, Fraccionamiento Popular Álvaro Obregón, Iztapalapa, CDMX, 09230, México",1
+16745,P-1.2.2,ROBO DE VEHICULO AUTOMOTOR S.V.,24/09/2016,19:28,2016,9,19.397,-99.196136,"Campo Florido, Bellavista, Álvaro Obregón, CDMX, 01140, México",1
+16746,P-1.1.9,ROBO DE VEHICULO AUTOMOTOR S.V.,24/09/2016,23:22,2016,9,19.342,-99.2228,"Camino al Desierto de los Leones, La Herradura, Álvaro Obregón, CDMX, 01760, México",1
