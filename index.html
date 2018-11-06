@@ -1,122 +1,179 @@
 <!DOCTYPE html>
 <html>
-<head>
-	
-	<title>Andrea - Leaflet</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
-	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-	<script src="js/leaflet-heat.js"></script>
-	<style>
+	<head>
+		<title>Andrea Bravo | Blog</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<meta name="author" content"Andrea Bravo">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="css/blog.css">
+	</head>
 
-		#negocio_map {
-			position: relative;
-			height: 500px;
-			width: 500px;
-			background-color: #fff;
-		}
+	<body>
+		
+		<!-- Navigation -->
+		<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+		  <div class="container">
+			<a class="navbar-brand" href="index.html">Andrea Bravo</a>
+			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+			  Menu
+			  <i class="fas fa-bars"></i>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+			  <ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+				  <a class="nav-link" href="index.html">Inicio</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="acerca.html">Acerca</a>
+				</li>
+				<li class="nav-item">
+				  <a class="nav-link" href="contacto.html">Contacto</a>
+				</li>
+			  </ul>
+			</div>
+		  </div>
+		</nav>
 
-		#vehiculo_map {
-			position: relative;
-			height:500px;
-			width: 500px;
-			background-color: #fff;
-		}	
-
-	</style>
-
-	
-</head>
-<body>
-	<h1 class="text-center my-3">Incidencia Delictiva Alcaldía Álvaro Obregón</h1>
-	<h4 class="text-center mb-1"> Enero - Septiembre 2016</h4> 
-	<h6 class="text-center my-3"> Andrea Bravo</h6> 
-
-
-	<p class="text-center font-weight-bold">
-		Robo a negocio | Con violencia
-	</p>
+		<!-- Page Header -->
+		<header class="masthead" style="background-image: url('images/example.png')">
+		  <div class="overlay"></div>
+		  <div class="container">
+			<div class="row">
+			  <div class="col-lg-8 col-md-10 mx-auto">
+				<div class="site-heading">
+				  <h1>Andrea Bravo | Blog</h1>
+				  <span class="subheading">Los análisis que he realizado</span>
+				</div>
+			  </div>
+			</div>
+		  </div>
+		</header>
 
 
-	<div class="container">
-		<div class="row">
-			<p class="text-justify mx-3">
-				RIESGO ALTO: La Ciudad de México, es la entidad federativa que registró mayor número de casos de robo a negocio en lo que va del 2018, al registrar 7,951 robos de acuerdo con datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP). De acuerdo con la tendencia 2018 podría cerrar con hasta 15% más delitos por robo a negocio que el 2017.
-			</p>
-			<p class="text-justify mx-3">
-				La Alcaldía de Álvaro Obregón cuenta con más de 24 mil negocios registrados y en promedio el delito de robo a negocio genera una pérdida del 40% de la economía de los comercios de la capital.
-			</p>
+		<!-- Main Content -->
+		<div class="container">
+		  <div class="row">
+			<div class="col-lg-8 col-md-10 mx-auto">
+			  <div class="post-preview">
+				<a href="violencia.html">
+				  <h2 class="post-title">
+					Incidencia Delictiva en la Ciudad de México 
+				  </h2>
+				  <h3 class="post-subtitle">
+					Mapa interactivo mostrando los crímenes con mayor detalle en la Alcaldía Álvaro Obregón
+				  </h3>
+				</a>
+				<p class="post-meta">Realizado por
+				  <a href="#">Andrea Bravo</a>
+				  el 2 de Noviembre del 2018</p>
+			  </div>
+			  <hr>
+			  <div class="post-preview">
+				<a href="#">
+				  <h2 class="post-title">
+					Model de policía predictiva
+				  </h2>
+				  <h3 class="post-subtitle">
+					  Model utilizado en varios estados. 
+				  </h3>
+				</a>
+				<p class="post-meta">Realizado por
+				  <a href="#">Sertech</a>
+				  el 02 de Enero del 2018</p>
+			  </div>
+			  <hr>
+			  <!--
+			  <div class="post-preview">
+				<a href="#">
+				  <h2 class="post-title">
+					Science has not yet mastered prophecy
+				  </h2>
+				  <h3 class="post-subtitle">
+					We predict too much for the next year and yet far too little for the next ten.
+				  </h3>
+				</a>
+				<p class="post-meta">Posted by
+				  <a href="#">Start Bootstrap</a>
+				  on August 24, 2018</p>
+			  </div>
+			  <hr>
+			  <div class="post-preview">
+				<a href="post.html">
+				  <h2 class="post-title">
+					Failure is not an option
+				  </h2>
+				  <h3 class="post-subtitle">
+					Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+				  </h3>
+				</a>
+				<p class="post-meta">Posted by
+				  <a href="#">Start Bootstrap</a>
+				  on July 8, 2018</p>
+			  </div>
+			  <hr>
+			  <div class="post-preview">
+				<a href="post.html">
+				  <h2 class="post-title">
+					Failure is not an option
+				  </h2>
+				  <h3 class="post-subtitle">
+					Many say exploration is part of our destiny, but it’s actually our duty to future generations.
+				  </h3>
+				</a>
+				<p class="post-meta">Posted by
+				  <a href="#">Start Bootstrap</a>
+				  on July 8, 2018</p>
+			  </div>
+			  -->
+			</div>
+		  </div>
 		</div>
-	</div>
 
-	<div class="container negocio_map mb-4">
-		<div class="row">
-			<div class="col-sm-8" id='negocio_map'></div>
-			<div class="col-sm-4">
-				<ul class="text-justify">
-					<li class="mt-3 mb-4">
-					Del 1 de enero al 30 de septiembre del 2016, se registraron 127 robos a negocio con violencia en la Alcaldía Álavaro Obregón. Es decir, cinco negocios fueron victimizados por cada 1,000. 
-					</li>
-					<li class="mb-4">
-					Enero fue el mes en el que se registraron mayor número de denuncias de robo a negocio con violencia, con 26 incidentes registrados, seguidos de marzo y mayo con 19 y 18 delitos respectivamente.
-					</li>
-					<li class="mb-4">
-					El horario en que ocurrieron mayor número de robos a negocio con violencia fue entre las 12:00 y 13:00 hrs. y las 22:00 y 23:00 hrs. 
-					</li>
-					<li class="mb-4">
-					Los cuadrantes p-1.2.3 y p-1.1.5 fueron los que registraron mayor incidencia de robo a negocio con violencia.
-					</li>
+		<hr>
+
+
+		<!-- Footer -->
+		<footer>
+		  <div class="container">
+			<div class="row">
+			  <div class="col-lg-8 col-md-10 mx-auto">
+				<ul class="list-inline text-center">
+				  <li class="list-inline-item">
+					<a href="#">
+					  <span class="fa-stack fa-lg">
+						<i class="fas fa-circle fa-stack-2x"></i>
+						<i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+					  </span>
+					</a>
+				  </li>
+				  <li class="list-inline-item">
+					<a href="#">
+					  <span class="fa-stack fa-lg">
+						<i class="fas fa-circle fa-stack-2x"></i>
+						<i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+					  </span>
+					</a>
+				  </li>
+				  <li class="list-inline-item">
+					<a href="#">
+					  <span class="fa-stack fa-lg">
+						<i class="fas fa-circle fa-stack-2x"></i>
+						<i class="fab fa-github fa-stack-1x fa-inverse"></i>
+					  </span>
+					</a>
+				  </li>
 				</ul>
+				<p class="copyright text-muted">Copyright &copy; Andrea Bravo 2018</p>
+			  </div>
 			</div>
-		</div>
-	</div>
-	
-	<div class="container">
-		<div class="text-center">
-			<p class="font-weight-bold">Robo de vehículo automotor | Sin violencia</p>
-		</div>
-		<div class="row">
-			<p class="text-justify mx-3">
-				RIESGO MEDIO: De enero a mayo del 2018, el robo a vehículo disminuyó en un 11.3% en comparación con el mismo periodo de 2017, en la Ciudad de México, al pasar de 50.6 robos diarios a 27 actualmente. La capital ocupa la posición 27 en el comparativo nacional, con una tasa de 67.8 hurtos por cada 100 mil habitantes, por debajo del promedio nacional de 168.8 delitos.
-			</p>
-		</div>
-	</div>			
+		  </div>
+		</footer>
 
-	<div class="container vehiculo_map">
-		<div class="row">
-			<div class="col-sm-8" id="vehiculo_map"></div>
-			<div class="col-sm-4">
-				<ul class="text-justify">
-					<li class="mb-4 mt-1">
-						Del 1 de enero al 30 de septiembre del 2016, se registraron 308 robos de vehículo automotor sin violencia en la Alcaldía Álavaro Obregón.
-					</li>
-					<li class="mb-4">
-						Julio fue el mes en el que se registraron mayor número de denuncias de robo de vehículo automotor sin violencia, con 47 incidentes registrados, seguidos de enero y septiembre con 42 y 38 delitos respectivamente.
-					</li>
-					<li class="mb-4">
-						El horario en que ocurrieron mayor número de robos de vehículo automotor sin violencia fue entre las 10:00 y 11:00 hrs., 15:00 y 16:00 hrs, y las 23:00 y 00:00 hrs.
-					</li>
-					<li class="mb-4">
-						Los cuadrantes p-1.2.7, p-1.2.11 y p-1.5.1 fueron los que registraron mayor incidencia de robos de vehículo automotor sin violencia.
-					</li>
-				</ul>	
-			</div>
-		</div>
-	</div>
-
-
-
-
-
-
-
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-<script src="js/negocio_map.js"></script>
-<script src="js/vehiculo_map.js"></script>
-</body>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+		<script src="js/blog.js"></script>
+	</body>
 </html>
